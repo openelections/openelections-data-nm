@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from time import sleep
 
 url_stub = 'http://electionresults.sos.state.nm.us/'
-file_name_pattern = '0141104__nm__general__{office}.xlsx'
+file_name_pattern = '20141104__nm__general__{office}.xlsx'
 election_types = ['FED', 'SW', 'LGX']
 
 office_slugs = {
