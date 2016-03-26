@@ -17,7 +17,7 @@ def getCounty(i):
 def clean(text):
 	return text.getText().replace('mstheme','').replace(',','').replace('&nbsp;','').replace('/', 'and')
 
-def scrape(output_file, url_id, url_end):
+def scrape(output_file, url_id, url_end, type):
 	with open(output_file, 'wb') as csvfile:
 		w = unicodecsv.writer(csvfile, encoding='utf-8')
 		headers = ['county', 'office', 'district', 'party', 'candidate', 'votes']
@@ -33,20 +33,33 @@ def scrape(output_file, url_id, url_end):
 
 			r = requests.get(url)
 			soup = BeautifulSoup(r.text)
-			tables = soup.findAll('table')
-			tables = tables[:len(tables) - 2]
 			hed = soup.findAll('h2')
+			tables = soup.findAll('table')
 
-			count = 2
+			if type == 'primary':
+				tables = tables
+			else:
+				tables = tables[:len(tables) - 2]
+
+
+			count = ''
+			if type == 'primary':
+				count = 0
+			else:
+				count = 2
+
 			for table in tables:
 				count = count + 1
 
 				office_district = ''
 				district = ''
-			
-				if count > 2:
-					office_district = hed[count].getText().split('-')
 				
+				if type == 'primary':
+					office_district = hed[count].getText().split('-')
+				else:
+					if count > 2:
+						office_district = hed[count].getText().split('-')
+							
 				if len(office_district) > 1:
 					if office_district[1].split(' ')[1] == 'DISTRICT' or office_district[1].split(' ')[1] == 'DIVISION':
 						district = office_district[1].split(' ')[-1];
@@ -68,7 +81,7 @@ def scrape(output_file, url_id, url_end):
 				
 
 general_2002_output = '2002/20021105__nm__general__county.csv'
-scrape(general_2002_output, '308947684091406b930f2fc3974c9057', '')
+scrape(general_2002_output, '308947684091406b930f2fc3974c9057', '', 'general')
 
 primary_2002_output = '2002/20020604__nm__primary__county.csv'
-scrape(primary_2002_output, '308947684091406b930f2fc3974c9057', '_001')
+scrape(primary_2002_output, '308947684091406b930f2fc3974c9057', '_001', 'primary')
