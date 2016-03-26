@@ -2,7 +2,7 @@ import unicodecsv
 import requests
 from BeautifulSoup import BeautifulSoup
 
-counties = ['Santa Fe', 'Bernalillo', 'Eddy', 'Chaves', 'Curry', 'Lea', 'Dona Ana', 'Grant', 'Colfax', 'Quay', 'Roosevelt', 'San Miguel', 
+counties = ['Santa Fe', 'Bernalillo', 'Eddy', 'Chaves', 'Curry', 'Lea', 'Dona Ana', 'Grant', 'Colfax', 'Quay', 'Roosevelt', 'San Miguel',
 'McKinley', 'Valencia', 'Otero', 'San Juan', 'Rio Arriba', 'Union', 'Luna', 'Taos', 'Sierra', 'Torrance', 'Hidalgo', 'Guadalupe', 'Socorro',
 'Lincoln', 'De Baca', 'Catron', 'Sandoval', 'Mora', 'Harding', 'Los Alamos', 'Cibola']
 
@@ -27,7 +27,7 @@ def scrape(output_file, url_id, url_end, type):
 
 			url = ''
 			if counties[i] == 'Santa Fe':
-				url = 'http://www.sos.state.nm.us/uploads/FileLinks/'+url_id+'/conty000'+url_end+'.htm' 	
+				url = 'http://www.sos.state.nm.us/uploads/FileLinks/'+url_id+'/conty000'+url_end+'.htm'
 			else:
 				url = 'http://www.sos.state.nm.us/uploads/FileLinks/'+url_id+'/conty0'+getCounty(i)+'.HTM'+url_end+'.html'
 
@@ -42,7 +42,7 @@ def scrape(output_file, url_id, url_end, type):
 			count = 0
 			for table in tables:
 				count = count + 1
-				
+
 				office_district = ''
 				district = ''
 
@@ -50,7 +50,7 @@ def scrape(output_file, url_id, url_end, type):
 					office_district = table.findAll('h2')[0].getText().split('-')
 				else:
 					office_district = ['PRESIDENT OF THE UNITED STATES']
-				
+
 				if len(office_district) > 1:
 					if len(office_district) > 1:
 						if office_district[1].split(' ')[1] == 'DISTRICT' or office_district[1].split(' ')[1] == 'DIVISION':
@@ -68,9 +68,9 @@ def scrape(output_file, url_id, url_end, type):
 					candidate = clean(col[0]).strip()
 					votes = clean(col[2]).strip()
 
-					if candidate: 
-						w.writerow([county, office, district, party, candidate, votes])
-				
+					if candidate:
+						w.writerow([county, office.strip(), district, party, candidate, votes])
+
 
 general_2000_output = '2000/20001107__nm__general__county.csv'
 scrape(general_2000_output, '0900d3d66e844a4084e2f448b5dc0a6a', '', 'general')

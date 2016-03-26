@@ -2,7 +2,7 @@ import unicodecsv
 import requests
 from BeautifulSoup import BeautifulSoup
 
-counties = ['Santa Fe', 'Bernalillo', 'Eddy', 'Chaves', 'Curry', 'Lea', 'Dona Ana', 'Grant', 'Colfax', 'Quay', 'Roosevelt', 'San Miguel', 
+counties = ['Santa Fe', 'Bernalillo', 'Eddy', 'Chaves', 'Curry', 'Lea', 'Dona Ana', 'Grant', 'Colfax', 'Quay', 'Roosevelt', 'San Miguel',
 'McKinley', 'Valencia', 'Otero', 'San Juan', 'Rio Arriba', 'Union', 'Luna', 'Taos', 'Sierra', 'Torrance', 'Hidalgo', 'Guadalupe', 'Socorro',
 'Lincoln', 'De Baca', 'Catron', 'Sandoval', 'Mora', 'Harding', 'Los Alamos', 'Cibola']
 
@@ -24,10 +24,10 @@ def scrape(output_file, url_id, url_end, type):
 		w.writerow(headers)
 
 		for i in range(len(counties)):
-			
+
 			url = ''
 			if counties[i] == 'Santa Fe':
-				url = 'http://www.sos.state.nm.us/uploads/FileLinks/'+url_id+'/conty000'+url_end+'.htm' 	
+				url = 'http://www.sos.state.nm.us/uploads/FileLinks/'+url_id+'/conty000'+url_end+'.htm'
 			else:
 				url = 'http://www.sos.state.nm.us/uploads/FileLinks/'+url_id+'/conty0'+getCounty(i)+'.HTM'+url_end+'.html'
 
@@ -51,13 +51,13 @@ def scrape(output_file, url_id, url_end, type):
 
 				office_district = ''
 				district = ''
-				
+
 				if type == 'primary':
 					office_district = hed[count].getText().split('-')
 				else:
 					if count > 2:
 						office_district = hed[count].getText().split('-')
-							
+
 				if len(office_district) > 1:
 					if office_district[1].split(' ')[1] == 'DISTRICT' or office_district[1].split(' ')[1] == 'DIVISION':
 						district = office_district[1].split(' ')[-1];
@@ -75,8 +75,8 @@ def scrape(output_file, url_id, url_end, type):
 					votes = clean(col[2]).strip()
 
 					if candidate:
-						w.writerow([county, office, district, party, candidate, votes])
-				
+						w.writerow([county, office.strip(), district, party, candidate, votes])
+
 
 general_2002_output = '2002/20021105__nm__general__county.csv'
 scrape(general_2002_output, '308947684091406b930f2fc3974c9057', '', 'general')
