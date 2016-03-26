@@ -36,9 +36,7 @@ def scrape(output_file, url_id, url_end, type):
 			hed = soup.findAll('h2')
 			tables = soup.findAll('table')
 
-			if type == 'primary':
-				tables = tables
-			else:
+			if type == 'general':
 				tables = tables[:len(tables) - 2]
 
 

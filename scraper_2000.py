@@ -17,7 +17,7 @@ def getCounty(i):
 def clean(text):
 	return text.getText().replace('mstheme','').replace(',','').replace('&nbsp;','').replace('/', 'and')
 
-def scrape(output_file, url_id, url_end):
+def scrape(output_file, url_id, url_end, type):
 	with open(output_file, 'wb') as csvfile:
 		w = unicodecsv.writer(csvfile, encoding='utf-8')
 		headers = ['county', 'office', 'district', 'party', 'candidate', 'votes']
@@ -33,9 +33,11 @@ def scrape(output_file, url_id, url_end):
 
 			r = requests.get(url)
 			soup = BeautifulSoup(r.text)
-			tables = soup.findAll('table')
-			tables = tables[:len(tables) - 2]
 			hed = str(soup.find('h2'))
+			tables = soup.findAll('table')
+
+			if type == 'general':
+				tables = tables[:len(tables) - 2]
 
 			count = 0
 			for table in tables:
@@ -71,7 +73,7 @@ def scrape(output_file, url_id, url_end):
 				
 
 general_2000_output = '2000/20001107__nm__general__county.csv'
-scrape(general_2000_output, '0900d3d66e844a4084e2f448b5dc0a6a', '')
+scrape(general_2000_output, '0900d3d66e844a4084e2f448b5dc0a6a', '', 'general')
 
 primary_2000_output = '2000/20000606__nm__primary__county.csv'
-scrape(primary_2000_output, '0900d3d66e844a4084e2f448b5dc0a6a', '_001')
+scrape(primary_2000_output, '0900d3d66e844a4084e2f448b5dc0a6a', '_001', 'primary')
