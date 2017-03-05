@@ -10,11 +10,11 @@ statewide = ['PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES', 'JUSTICE OF TH
 legislative = ['UNITED STATES REPRESENTATIVE', 'STATE SENATOR', 'STATE REPRESENTATIVE']
 offices = statewide + legislative
 
-with open('2010/20101102__nm__general.csv', 'wb') as csvfile:
+with open('2016/20161108__nm__general.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    lines = open('/Users/DW-Admin/code/openelections-data-nm/2010general.txt').readlines()
+    lines = open('/Users/DW-Admin/code/openelections-data-nm/2016general.txt').readlines()
     for line in lines:
         parsed_line = line.split('\t')
         if 'PARTY' in line:
