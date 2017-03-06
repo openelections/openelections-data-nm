@@ -21,9 +21,10 @@ office_slugs = {
 
 for election_type in election_types:
     # request the statewide results page
+    # this is needed after county to get the all results leg page: &lValue=100&gValue=001
     sw_url_pattern = (
         url_stub +
-        'resultsSW.aspx?eid=2&type={election_type}&map=CTY'
+        'resultsSW.aspx?eid=2&type={election_type}&map=CTY&lValue=100&gValue=001'
     )
     sw_page_content = requests.get(sw_url_pattern.format(
         election_type=election_type
