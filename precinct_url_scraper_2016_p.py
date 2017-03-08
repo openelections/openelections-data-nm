@@ -4,26 +4,24 @@ from bs4 import BeautifulSoup
 from time import sleep
 
 url_stub = 'http://electionresults.sos.state.nm.us/'
-file_name_pattern = '20141104__nm__general__{office}.xlsx'
+file_name_pattern = '20160607__nm__primary__{office}.xlsx'
+#the LGX designation may be different in the general depending on year
 election_types = ['FED', 'SW', 'LGX']
 
 office_slugs = {
-    'Governor and Lieutenant Governor': 'governor',
-    'United States Senator': 'senate',
+    'President of the United States - Democratic': 'president_d',
+    'President of the United States - Republican': 'president_r',
     'United States Representative': 'house__{district}',
     'Secretary of State': 'secretary_of_state',
-    'State Auditor': 'state_auditor',
-    'State Treasurer': 'state_treasurer',
-    'Attorney General': 'attorney_general',
-    'Commissioner of Public Lands': 'commissioner_of_public_lands',
     'State Representative': 'state_house__{district}',
+    'State Senator': 'state_senate__{district}',
 }
 
 for election_type in election_types:
     # request the statewide results page
     sw_url_pattern = (
         url_stub +
-        'resultsSW.aspx?eid=2&type={election_type}&map=CTY'
+        'resultsSW.aspx?eid=78&type={election_type}&map=CTY&lValue=100&gValue=001'
     )
     sw_page_content = requests.get(sw_url_pattern.format(
         election_type=election_type
