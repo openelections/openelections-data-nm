@@ -1,0 +1,720 @@
+county,precinct,office,district,party,candidate,votes
+Bernalillo,603,House,1,,RICHARD GREGORY PRIEM,1000
+Bernalillo,603,House,1,,MICHELLE LUJAN GRISHAM,1300
+Sandoval,076,House,1,,RICHARD GREGORY PRIEM,390
+Sandoval,076,House,1,,MICHELLE LUJAN GRISHAM,607
+Santa Fe,084,House,1,,RICHARD GREGORY PRIEM,657
+Santa Fe,084,House,1,,MICHELLE LUJAN GRISHAM,451
+Torrance,016,House,1,,RICHARD GREGORY PRIEM,129
+Torrance,016,House,1,,MICHELLE LUJAN GRISHAM,193
+Valencia,28,House,1,,RICHARD GREGORY PRIEM,271
+Valencia,28,House,1,,MICHELLE LUJAN GRISHAM,472
+Bernalillo,093,House,2,,STEVE PEARCE,400
+Bernalillo,093,House,2,,MERRIE LEE SOULES,316
+Bernalillo,093,House,2,,JACK A MCGRANN,0
+Catron,006,House,2,,STEVE PEARCE,90
+Catron,006,House,2,,MERRIE LEE SOULES,23
+Catron,006,House,2,,JACK A MCGRANN,0
+Chaves,104,House,2,,STEVE PEARCE,78
+Chaves,104,House,2,,MERRIE LEE SOULES,0
+Chaves,104,House,2,,JACK A MCGRANN,0
+Cibola,025,House,2,,STEVE PEARCE,80
+Cibola,025,House,2,,MERRIE LEE SOULES,47
+Cibola,025,House,2,,JACK A MCGRANN,0
+De Baca,4,House,2,,STEVE PEARCE,74
+De Baca,4,House,2,,MERRIE LEE SOULES,32
+De Baca,4,House,2,,JACK A MCGRANN,0
+Dona Ana,120,House,2,,STEVE PEARCE,47
+Dona Ana,120,House,2,,MERRIE LEE SOULES,34
+Dona Ana,120,House,2,,JACK A MCGRANN,0
+Eddy,45,House,2,,STEVE PEARCE,354
+Eddy,45,House,2,,MERRIE LEE SOULES,83
+Eddy,45,House,2,,JACK A MCGRANN,0
+Grant,035,House,2,,STEVE PEARCE,54
+Grant,035,House,2,,MERRIE LEE SOULES,15
+Grant,035,House,2,,JACK A MCGRANN,0
+Guadalupe,5,House,2,,STEVE PEARCE,173
+Guadalupe,5,House,2,,MERRIE LEE SOULES,158
+Guadalupe,5,House,2,,JACK A MCGRANN,0
+Hidalgo,6,House,2,,STEVE PEARCE,295
+Hidalgo,6,House,2,,MERRIE LEE SOULES,43
+Hidalgo,6,House,2,,JACK A MCGRANN,0
+Lea,074,House,2,,STEVE PEARCE,178
+Lea,074,House,2,,MERRIE LEE SOULES,26
+Lea,074,House,2,,JACK A MCGRANN,0
+Lincoln,022,House,2,,STEVE PEARCE,89
+Lincoln,022,House,2,,MERRIE LEE SOULES,38
+Lincoln,022,House,2,,JACK A MCGRANN,1
+Luna,014,House,2,,STEVE PEARCE,516
+Luna,014,House,2,,MERRIE LEE SOULES,277
+Luna,014,House,2,,JACK A MCGRANN,0
+McKinley,30,House,2,,STEVE PEARCE,277
+McKinley,30,House,2,,MERRIE LEE SOULES,291
+McKinley,30,House,2,,JACK A MCGRANN,0
+Otero,41,House,2,,STEVE PEARCE,144
+Otero,41,House,2,,MERRIE LEE SOULES,306
+Otero,41,House,2,,JACK A MCGRANN,0
+Roosevelt,015,House,2,,STEVE PEARCE,148
+Roosevelt,015,House,2,,MERRIE LEE SOULES,36
+Roosevelt,015,House,2,,JACK A MCGRANN,0
+Sierra,009,House,2,,STEVE PEARCE,526
+Sierra,009,House,2,,MERRIE LEE SOULES,286
+Sierra,009,House,2,,JACK A MCGRANN,0
+Socorro,027,House,2,,STEVE PEARCE,268
+Socorro,027,House,2,,MERRIE LEE SOULES,129
+Socorro,027,House,2,,JACK A MCGRANN,0
+Valencia,41,House,2,,STEVE PEARCE,633
+Valencia,41,House,2,,MERRIE LEE SOULES,344
+Valencia,41,House,2,,JACK A MCGRANN,0
+Bernalillo,129,House,3,,MICHAEL H ROMERO,232
+Bernalillo,129,House,3,,BEN R LUJAN,264
+Colfax,022,House,3,,MICHAEL H ROMERO,238
+Colfax,022,House,3,,BEN R LUJAN,217
+Curry,037,House,3,,MICHAEL H ROMERO,481
+Curry,037,House,3,,BEN R LUJAN,185
+Harding,002,House,3,,MICHAEL H ROMERO,148
+Harding,002,House,3,,BEN R LUJAN,165
+Los Alamos,17,House,3,,MICHAEL H ROMERO,151
+Los Alamos,17,House,3,,BEN R LUJAN,280
+McKinley,62,House,3,,MICHAEL H ROMERO,25
+McKinley,62,House,3,,BEN R LUJAN,144
+Mora,011,House,3,,MICHAEL H ROMERO,58
+Mora,011,House,3,,BEN R LUJAN,138
+Quay,012,House,3,,MICHAEL H ROMERO,196
+Quay,012,House,3,,BEN R LUJAN,148
+Rio Arriba,042,House,3,,MICHAEL H ROMERO,25
+Rio Arriba,042,House,3,,BEN R LUJAN,115
+Roosevelt,018,House,3,,MICHAEL H ROMERO,318
+Roosevelt,018,House,3,,BEN R LUJAN,71
+San Juan,77,House,3,,MICHAEL H ROMERO,657
+San Juan,77,House,3,,BEN R LUJAN,209
+San Miguel,028,House,3,,MICHAEL H ROMERO,76
+San Miguel,028,House,3,,BEN R LUJAN,265
+Sandoval,086,House,3,,MICHAEL H ROMERO,467
+Sandoval,086,House,3,,BEN R LUJAN,431
+Santa Fe,090,House,3,,MICHAEL H ROMERO,445
+Santa Fe,090,House,3,,BEN R LUJAN,1199
+Taos,036,House,3,,MICHAEL H ROMERO,9
+Taos,036,House,3,,BEN R LUJAN,51
+Union,009,House,3,,MICHAEL H ROMERO,53
+Union,009,House,3,,BEN R LUJAN,16
+Bernalillo,603,President,,,GARY JOHNSON,214
+Bernalillo,603,President,,,DARRELL CASTLE,2
+Bernalillo,603,President,,,DONALD J TRUMP,982
+Bernalillo,603,President,,,HILLARY RODHAM CLINTON,1097
+Bernalillo,603,President,,,JILL STEIN,21
+Bernalillo,603,President,,,GLORIA LA RIVA,1
+Bernalillo,603,President,,,EVAN MCMULLIN,28
+Bernalillo,603,President,,,"""ROCKY"" ROQUE DE LA FUENTE",2
+Catron,006,President,,,GARY JOHNSON,7
+Catron,006,President,,,DARRELL CASTLE,1
+Catron,006,President,,,DONALD J TRUMP,79
+Catron,006,President,,,HILLARY RODHAM CLINTON,20
+Catron,006,President,,,JILL STEIN,2
+Catron,006,President,,,GLORIA LA RIVA,0
+Catron,006,President,,,EVAN MCMULLIN,1
+Catron,006,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Chaves,104,President,,,GARY JOHNSON,2
+Chaves,104,President,,,DARRELL CASTLE,0
+Chaves,104,President,,,DONALD J TRUMP,74
+Chaves,104,President,,,HILLARY RODHAM CLINTON,1
+Chaves,104,President,,,JILL STEIN,1
+Chaves,104,President,,,GLORIA LA RIVA,0
+Chaves,104,President,,,EVAN MCMULLIN,0
+Chaves,104,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Cibola,025,President,,,GARY JOHNSON,25
+Cibola,025,President,,,DARRELL CASTLE,0
+Cibola,025,President,,,DONALD J TRUMP,25
+Cibola,025,President,,,HILLARY RODHAM CLINTON,76
+Cibola,025,President,,,JILL STEIN,1
+Cibola,025,President,,,GLORIA LA RIVA,0
+Cibola,025,President,,,EVAN MCMULLIN,1
+Cibola,025,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Colfax,022,President,,,GARY JOHNSON,34
+Colfax,022,President,,,DARRELL CASTLE,3
+Colfax,022,President,,,DONALD J TRUMP,274
+Colfax,022,President,,,HILLARY RODHAM CLINTON,146
+Colfax,022,President,,,JILL STEIN,2
+Colfax,022,President,,,GLORIA LA RIVA,0
+Colfax,022,President,,,EVAN MCMULLIN,1
+Colfax,022,President,,,"""ROCKY"" ROQUE DE LA FUENTE",1
+Curry,037,President,,,GARY JOHNSON,33
+Curry,037,President,,,DARRELL CASTLE,3
+Curry,037,President,,,DONALD J TRUMP,495
+Curry,037,President,,,HILLARY RODHAM CLINTON,133
+Curry,037,President,,,JILL STEIN,5
+Curry,037,President,,,GLORIA LA RIVA,0
+Curry,037,President,,,EVAN MCMULLIN,11
+Curry,037,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+De Baca,4,President,,,GARY JOHNSON,15
+De Baca,4,President,,,DARRELL CASTLE,0
+De Baca,4,President,,,DONALD J TRUMP,39
+De Baca,4,President,,,HILLARY RODHAM CLINTON,62
+De Baca,4,President,,,JILL STEIN,2
+De Baca,4,President,,,GLORIA LA RIVA,0
+De Baca,4,President,,,EVAN MCMULLIN,0
+De Baca,4,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Dona Ana,120,President,,,GARY JOHNSON,2
+Dona Ana,120,President,,,DARRELL CASTLE,1
+Dona Ana,120,President,,,DONALD J TRUMP,33
+Dona Ana,120,President,,,HILLARY RODHAM CLINTON,42
+Dona Ana,120,President,,,JILL STEIN,2
+Dona Ana,120,President,,,GLORIA LA RIVA,0
+Dona Ana,120,President,,,EVAN MCMULLIN,2
+Dona Ana,120,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Eddy,45,President,,,GARY JOHNSON,37
+Eddy,45,President,,,DARRELL CASTLE,0
+Eddy,45,President,,,DONALD J TRUMP,300
+Eddy,45,President,,,HILLARY RODHAM CLINTON,106
+Eddy,45,President,,,JILL STEIN,1
+Eddy,45,President,,,GLORIA LA RIVA,0
+Eddy,45,President,,,EVAN MCMULLIN,5
+Eddy,45,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Grant,035,President,,,GARY JOHNSON,8
+Grant,035,President,,,DARRELL CASTLE,0
+Grant,035,President,,,DONALD J TRUMP,49
+Grant,035,President,,,HILLARY RODHAM CLINTON,7
+Grant,035,President,,,JILL STEIN,5
+Grant,035,President,,,GLORIA LA RIVA,0
+Grant,035,President,,,EVAN MCMULLIN,2
+Grant,035,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Guadalupe,5,President,,,GARY JOHNSON,42
+Guadalupe,5,President,,,DARRELL CASTLE,0
+Guadalupe,5,President,,,DONALD J TRUMP,77
+Guadalupe,5,President,,,HILLARY RODHAM CLINTON,212
+Guadalupe,5,President,,,JILL STEIN,7
+Guadalupe,5,President,,,GLORIA LA RIVA,0
+Guadalupe,5,President,,,EVAN MCMULLIN,2
+Guadalupe,5,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Harding,002,President,,,GARY JOHNSON,31
+Harding,002,President,,,DARRELL CASTLE,2
+Harding,002,President,,,DONALD J TRUMP,169
+Harding,002,President,,,HILLARY RODHAM CLINTON,115
+Harding,002,President,,,JILL STEIN,3
+Harding,002,President,,,GLORIA LA RIVA,0
+Harding,002,President,,,EVAN MCMULLIN,0
+Harding,002,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Hidalgo,6,President,,,GARY JOHNSON,9
+Hidalgo,6,President,,,DARRELL CASTLE,1
+Hidalgo,6,President,,,DONALD J TRUMP,263
+Hidalgo,6,President,,,HILLARY RODHAM CLINTON,58
+Hidalgo,6,President,,,JILL STEIN,0
+Hidalgo,6,President,,,GLORIA LA RIVA,0
+Hidalgo,6,President,,,EVAN MCMULLIN,7
+Hidalgo,6,President,,,"""ROCKY"" ROQUE DE LA FUENTE",1
+Lea,074,President,,,GARY JOHNSON,13
+Lea,074,President,,,DARRELL CASTLE,0
+Lea,074,President,,,DONALD J TRUMP,160
+Lea,074,President,,,HILLARY RODHAM CLINTON,33
+Lea,074,President,,,JILL STEIN,0
+Lea,074,President,,,GLORIA LA RIVA,1
+Lea,074,President,,,EVAN MCMULLIN,0
+Lea,074,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Lincoln,022,President,,,GARY JOHNSON,13
+Lincoln,022,President,,,DARRELL CASTLE,0
+Lincoln,022,President,,,DONALD J TRUMP,69
+Lincoln,022,President,,,HILLARY RODHAM CLINTON,50
+Lincoln,022,President,,,JILL STEIN,0
+Lincoln,022,President,,,GLORIA LA RIVA,0
+Lincoln,022,President,,,EVAN MCMULLIN,0
+Lincoln,022,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Los Alamos,17,President,,,GARY JOHNSON,64
+Los Alamos,17,President,,,DARRELL CASTLE,3
+Los Alamos,17,President,,,DONALD J TRUMP,110
+Los Alamos,17,President,,,HILLARY RODHAM CLINTON,249
+Los Alamos,17,President,,,JILL STEIN,3
+Los Alamos,17,President,,,GLORIA LA RIVA,0
+Los Alamos,17,President,,,EVAN MCMULLIN,5
+Los Alamos,17,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Luna,014,President,,,GARY JOHNSON,66
+Luna,014,President,,,DARRELL CASTLE,1
+Luna,014,President,,,DONALD J TRUMP,458
+Luna,014,President,,,HILLARY RODHAM CLINTON,281
+Luna,014,President,,,JILL STEIN,9
+Luna,014,President,,,GLORIA LA RIVA,0
+Luna,014,President,,,EVAN MCMULLIN,4
+Luna,014,President,,,"""ROCKY"" ROQUE DE LA FUENTE",1
+McKinley,62,President,,,GARY JOHNSON,19
+McKinley,62,President,,,DARRELL CASTLE,0
+McKinley,62,President,,,DONALD J TRUMP,30
+McKinley,62,President,,,HILLARY RODHAM CLINTON,122
+McKinley,62,President,,,JILL STEIN,0
+McKinley,62,President,,,GLORIA LA RIVA,2
+McKinley,62,President,,,EVAN MCMULLIN,0
+McKinley,62,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Mora,011,President,,,GARY JOHNSON,13
+Mora,011,President,,,DARRELL CASTLE,0
+Mora,011,President,,,DONALD J TRUMP,61
+Mora,011,President,,,HILLARY RODHAM CLINTON,127
+Mora,011,President,,,JILL STEIN,2
+Mora,011,President,,,GLORIA LA RIVA,0
+Mora,011,President,,,EVAN MCMULLIN,0
+Mora,011,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Otero,41,President,,,GARY JOHNSON,24
+Otero,41,President,,,DARRELL CASTLE,0
+Otero,41,President,,,DONALD J TRUMP,105
+Otero,41,President,,,HILLARY RODHAM CLINTON,340
+Otero,41,President,,,JILL STEIN,7
+Otero,41,President,,,GLORIA LA RIVA,1
+Otero,41,President,,,EVAN MCMULLIN,4
+Otero,41,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Quay,012,President,,,GARY JOHNSON,32
+Quay,012,President,,,DARRELL CASTLE,0
+Quay,012,President,,,DONALD J TRUMP,230
+Quay,012,President,,,HILLARY RODHAM CLINTON,86
+Quay,012,President,,,JILL STEIN,0
+Quay,012,President,,,GLORIA LA RIVA,0
+Quay,012,President,,,EVAN MCMULLIN,1
+Quay,012,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Rio Arriba,042,President,,,GARY JOHNSON,14
+Rio Arriba,042,President,,,DARRELL CASTLE,0
+Rio Arriba,042,President,,,DONALD J TRUMP,31
+Rio Arriba,042,President,,,HILLARY RODHAM CLINTON,91
+Rio Arriba,042,President,,,JILL STEIN,5
+Rio Arriba,042,President,,,GLORIA LA RIVA,0
+Rio Arriba,042,President,,,EVAN MCMULLIN,0
+Rio Arriba,042,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Roosevelt,018,President,,,GARY JOHNSON,19
+Roosevelt,018,President,,,DARRELL CASTLE,0
+Roosevelt,018,President,,,DONALD J TRUMP,335
+Roosevelt,018,President,,,HILLARY RODHAM CLINTON,44
+Roosevelt,018,President,,,JILL STEIN,1
+Roosevelt,018,President,,,GLORIA LA RIVA,0
+Roosevelt,018,President,,,EVAN MCMULLIN,1
+Roosevelt,018,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+San Juan,77,President,,,GARY JOHNSON,62
+San Juan,77,President,,,DARRELL CASTLE,0
+San Juan,77,President,,,DONALD J TRUMP,697
+San Juan,77,President,,,HILLARY RODHAM CLINTON,117
+San Juan,77,President,,,JILL STEIN,7
+San Juan,77,President,,,GLORIA LA RIVA,0
+San Juan,77,President,,,EVAN MCMULLIN,6
+San Juan,77,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+San Miguel,028,President,,,GARY JOHNSON,27
+San Miguel,028,President,,,DARRELL CASTLE,0
+San Miguel,028,President,,,DONALD J TRUMP,85
+San Miguel,028,President,,,HILLARY RODHAM CLINTON,228
+San Miguel,028,President,,,JILL STEIN,5
+San Miguel,028,President,,,GLORIA LA RIVA,0
+San Miguel,028,President,,,EVAN MCMULLIN,1
+San Miguel,028,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Sandoval,086,President,,,GARY JOHNSON,102
+Sandoval,086,President,,,DARRELL CASTLE,1
+Sandoval,086,President,,,DONALD J TRUMP,400
+Sandoval,086,President,,,HILLARY RODHAM CLINTON,378
+Sandoval,086,President,,,JILL STEIN,2
+Sandoval,086,President,,,GLORIA LA RIVA,2
+Sandoval,086,President,,,EVAN MCMULLIN,25
+Sandoval,086,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Santa Fe,090,President,,,GARY JOHNSON,93
+Santa Fe,090,President,,,DARRELL CASTLE,0
+Santa Fe,090,President,,,DONALD J TRUMP,393
+Santa Fe,090,President,,,HILLARY RODHAM CLINTON,1144
+Santa Fe,090,President,,,JILL STEIN,31
+Santa Fe,090,President,,,GLORIA LA RIVA,0
+Santa Fe,090,President,,,EVAN MCMULLIN,5
+Santa Fe,090,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Sierra,009,President,,,GARY JOHNSON,87
+Sierra,009,President,,,DARRELL CASTLE,1
+Sierra,009,President,,,DONALD J TRUMP,448
+Sierra,009,President,,,HILLARY RODHAM CLINTON,279
+Sierra,009,President,,,JILL STEIN,8
+Sierra,009,President,,,GLORIA LA RIVA,1
+Sierra,009,President,,,EVAN MCMULLIN,1
+Sierra,009,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Socorro,027,President,,,GARY JOHNSON,38
+Socorro,027,President,,,DARRELL CASTLE,2
+Socorro,027,President,,,DONALD J TRUMP,225
+Socorro,027,President,,,HILLARY RODHAM CLINTON,139
+Socorro,027,President,,,JILL STEIN,2
+Socorro,027,President,,,GLORIA LA RIVA,1
+Socorro,027,President,,,EVAN MCMULLIN,2
+Socorro,027,President,,,"""ROCKY"" ROQUE DE LA FUENTE",1
+Taos,036,President,,,GARY JOHNSON,14
+Taos,036,President,,,DARRELL CASTLE,0
+Taos,036,President,,,DONALD J TRUMP,4
+Taos,036,President,,,HILLARY RODHAM CLINTON,42
+Taos,036,President,,,JILL STEIN,1
+Taos,036,President,,,GLORIA LA RIVA,0
+Taos,036,President,,,EVAN MCMULLIN,0
+Taos,036,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Torrance,016,President,,,GARY JOHNSON,30
+Torrance,016,President,,,DARRELL CASTLE,2
+Torrance,016,President,,,DONALD J TRUMP,171
+Torrance,016,President,,,HILLARY RODHAM CLINTON,125
+Torrance,016,President,,,JILL STEIN,1
+Torrance,016,President,,,GLORIA LA RIVA,0
+Torrance,016,President,,,EVAN MCMULLIN,1
+Torrance,016,President,,,"""ROCKY"" ROQUE DE LA FUENTE",2
+Union,009,President,,,GARY JOHNSON,3
+Union,009,President,,,DARRELL CASTLE,0
+Union,009,President,,,DONALD J TRUMP,64
+Union,009,President,,,HILLARY RODHAM CLINTON,2
+Union,009,President,,,JILL STEIN,0
+Union,009,President,,,GLORIA LA RIVA,0
+Union,009,President,,,EVAN MCMULLIN,1
+Union,009,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Valencia,41,President,,,GARY JOHNSON,91
+Valencia,41,President,,,DARRELL CASTLE,4
+Valencia,41,President,,,DONALD J TRUMP,495
+Valencia,41,President,,,HILLARY RODHAM CLINTON,379
+Valencia,41,President,,,JILL STEIN,6
+Valencia,41,President,,,GLORIA LA RIVA,0
+Valencia,41,President,,,EVAN MCMULLIN,17
+Valencia,41,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Bernalillo,603,Secretary Of State,,,NORA ESPINOZA,1054
+Bernalillo,603,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,1226
+Catron,006,Secretary Of State,,,NORA ESPINOZA,80
+Catron,006,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,31
+Chaves,104,Secretary Of State,,,NORA ESPINOZA,73
+Chaves,104,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,4
+Cibola,025,Secretary Of State,,,NORA ESPINOZA,29
+Cibola,025,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,97
+Colfax,022,Secretary Of State,,,NORA ESPINOZA,245
+Colfax,022,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,204
+Curry,037,Secretary Of State,,,NORA ESPINOZA,482
+Curry,037,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,178
+De Baca,4,Secretary Of State,,,NORA ESPINOZA,46
+De Baca,4,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,56
+Dona Ana,120,Secretary Of State,,,NORA ESPINOZA,42
+Dona Ana,120,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,38
+Eddy,45,Secretary Of State,,,NORA ESPINOZA,297
+Eddy,45,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,132
+Grant,035,Secretary Of State,,,NORA ESPINOZA,41
+Grant,035,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,23
+Guadalupe,5,Secretary Of State,,,NORA ESPINOZA,107
+Guadalupe,5,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,221
+Harding,002,Secretary Of State,,,NORA ESPINOZA,162
+Harding,002,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,143
+Hidalgo,6,Secretary Of State,,,NORA ESPINOZA,247
+Hidalgo,6,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,80
+Lea,074,Secretary Of State,,,NORA ESPINOZA,157
+Lea,074,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,39
+Lincoln,022,Secretary Of State,,,NORA ESPINOZA,77
+Lincoln,022,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,49
+Los Alamos,17,Secretary Of State,,,NORA ESPINOZA,188
+Los Alamos,17,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,232
+Luna,014,Secretary Of State,,,NORA ESPINOZA,453
+Luna,014,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,331
+McKinley,62,Secretary Of State,,,NORA ESPINOZA,40
+McKinley,62,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,126
+Mora,011,Secretary Of State,,,NORA ESPINOZA,62
+Mora,011,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,126
+Otero,41,Secretary Of State,,,NORA ESPINOZA,141
+Otero,41,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,311
+Quay,012,Secretary Of State,,,NORA ESPINOZA,190
+Quay,012,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,144
+Rio Arriba,042,Secretary Of State,,,NORA ESPINOZA,33
+Rio Arriba,042,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,100
+Roosevelt,018,Secretary Of State,,,NORA ESPINOZA,300
+Roosevelt,018,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,84
+San Juan,77,Secretary Of State,,,NORA ESPINOZA,668
+San Juan,77,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,190
+San Miguel,028,Secretary Of State,,,NORA ESPINOZA,91
+San Miguel,028,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,247
+Sandoval,086,Secretary Of State,,,NORA ESPINOZA,459
+Sandoval,086,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,433
+Santa Fe,090,Secretary Of State,,,NORA ESPINOZA,439
+Santa Fe,090,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,1185
+Sierra,009,Secretary Of State,,,NORA ESPINOZA,416
+Sierra,009,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,374
+Socorro,027,Secretary Of State,,,NORA ESPINOZA,214
+Socorro,027,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,181
+Taos,036,Secretary Of State,,,NORA ESPINOZA,11
+Taos,036,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,48
+Torrance,016,Secretary Of State,,,NORA ESPINOZA,155
+Torrance,016,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,158
+Union,009,Secretary Of State,,,NORA ESPINOZA,45
+Union,009,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,22
+Valencia,41,Secretary Of State,,,NORA ESPINOZA,519
+Valencia,41,Secretary Of State,,,MAGGIE TOULOUSE OLIVER,453
+San Juan,67,State House,1,,RODNEY D MONTOYA,795
+Bernalillo,278,State House,10,,G ANDRES ROMERO,164
+Bernalillo,278,State House,10,,ROBERT A SCHILLER,135
+Bernalillo,221,State House,11,,JAVIER I MARTINEZ,457
+Bernalillo,143,State House,12,,PATRICIO R RUILOBA,237
+Bernalillo,141,State House,13,,PATRICIA A ROYBAL CABALLERO,407
+Bernalillo,225,State House,14,,MIGUEL P GARCIA,101
+Bernalillo,601,State House,15,,ANE C ROMERO,253
+Bernalillo,601,State House,15,,SARAH MAESTAS BARNES,424
+Bernalillo,040,State House,16,,"ANTONIO ""MOE"" MAESTAS",411
+Bernalillo,455,State House,17,,DEBORAH A ARMSTRONG,1276
+Bernalillo,358,State House,18,,GAIL CHASEY,334
+Bernalillo,385,State House,19,,SHERYL M WILLIAMS STAPLETON,315
+San Juan,70,State House,2,,KENNETH R ROBINSON,135
+San Juan,70,State House,2,,JAMES RJ STRICKLER,402
+Bernalillo,544,State House,20,,JIM DINES,305
+Bernalillo,544,State House,20,,GIOVANNI ALEXANDER HAQANI,246
+Bernalillo,478,State House,21,,DEBRA MARIE SARINANA,399
+Bernalillo,573,State House,22,,JOHN M WALLACE,351
+Bernalillo,573,State House,22,,JAMES E SMITH,582
+Sandoval,076,State House,22,,JOHN M WALLACE,534
+Sandoval,076,State House,22,,JAMES E SMITH,458
+Santa Fe,084,State House,22,,JOHN M WALLACE,330
+Santa Fe,084,State House,22,,JAMES E SMITH,759
+Bernalillo,171,State House,23,,PAUL A PACHECO,475
+Bernalillo,171,State House,23,,DAYMON B ELY,497
+Sandoval,057,State House,23,,PAUL A PACHECO,291
+Sandoval,057,State House,23,,DAYMON B ELY,234
+Bernalillo,562,State House,24,,CHRISTINA MARIE HALL,464
+Bernalillo,562,State House,24,,ELIZABETH L THOMSON,497
+Bernalillo,492,State House,25,,CHRISTINE TRUJILLO,203
+Bernalillo,137,State House,26,,GEORGENE LOUIS,331
+Bernalillo,568,State House,27,,LORENZO A LARRAÑAGA,635
+Bernalillo,568,State House,27,,RONALD E KRISE,289
+Bernalillo,566,State House,28,,JIMMIE C HALL,640
+Bernalillo,134,State House,29,,DAVID E ADKINS,650
+Bernalillo,134,State House,29,,RONNIE MARTINEZ,924
+San Juan,77,State House,3,,PAUL C BANDY,743
+Bernalillo,529,State House,30,,NATE GENTRY,461
+Bernalillo,529,State House,30,,NATALIE R FIGUEROA,409
+Bernalillo,603,State House,31,,WILLIAM R REHM,1293
+Bernalillo,603,State House,31,,ROBERT L SCOTT,959
+Grant,031,State House,32,,CANDIE G SWEETSER,19
+Grant,031,State House,32,,VICKI K CHAVEZ,24
+Hidalgo,6,State House,32,,CANDIE G SWEETSER,120
+Hidalgo,6,State House,32,,VICKI K CHAVEZ,214
+Luna,014,State House,32,,CANDIE G SWEETSER,390
+Luna,014,State House,32,,VICKI K CHAVEZ,405
+Dona Ana,108,State House,33,,BILL MCCAMLEY,452
+Dona Ana,108,State House,33,,NEAL L HOOKS,342
+Dona Ana,097,State House,34,,BEALQUIN BILL GOMEZ,661
+Dona Ana,109,State House,35,,JOSEPH E BISHOP,604
+Dona Ana,109,State House,35,,ANGELICA RUBIO,741
+Dona Ana,119,State House,36,,ANDREW ANDY NUNEZ,193
+Dona Ana,119,State House,36,,NATHAN P SMALL,269
+Dona Ana,116,State House,37,,TERRY H MCMILLAN,345
+Dona Ana,116,State House,37,,JOANNE J FERRARY,338
+Grant,035,State House,38,,MARY E HOTVEDT,19
+Grant,035,State House,38,,REBECCA L DOW,47
+Hidalgo,4,State House,38,,MARY E HOTVEDT,23
+Hidalgo,4,State House,38,,REBECCA L DOW,167
+Sierra,009,State House,38,,MARY E HOTVEDT,295
+Sierra,009,State House,38,,REBECCA L DOW,505
+Dona Ana,115,State House,39,,RODOLPHO S MARTINEZ,140
+Dona Ana,115,State House,39,,JOHN L ZIMMERMAN,336
+Grant,034,State House,39,,RODOLPHO S MARTINEZ,223
+Grant,034,State House,39,,JOHN L ZIMMERMAN,83
+Sierra,001,State House,39,,RODOLPHO S MARTINEZ,237
+Sierra,001,State House,39,,JOHN L ZIMMERMAN,348
+San Juan,30,State House,4,,GLOJEAN B TODACHEENE,173
+San Juan,30,State House,4,,SHARON E CLAHCHISCHILLIAGE,612
+Colfax,007,State House,40,,NICK L SALAZAR,119
+Mora,011,State House,40,,NICK L SALAZAR,140
+Rio Arriba,041,State House,40,,NICK L SALAZAR,631
+San Miguel,024,State House,40,,NICK L SALAZAR,259
+Rio Arriba,042,State House,41,,DEBBIE A RODELLA,110
+Santa Fe,058,State House,41,,DEBBIE A RODELLA,341
+Taos,023,State House,41,,DEBBIE A RODELLA,57
+Taos,036,State House,42,,"ROBERTO ""BOBBY"" JESSE GONZALES",50
+Los Alamos,17,State House,43,,STEPHANIE GARCIA RICHARD,255
+Los Alamos,17,State House,43,,SHARON STOVER,176
+Rio Arriba,030,State House,43,,STEPHANIE GARCIA RICHARD,81
+Rio Arriba,030,State House,43,,SHARON STOVER,58
+Sandoval,079,State House,43,,STEPHANIE GARCIA RICHARD,98
+Sandoval,079,State House,43,,SHARON STOVER,73
+Santa Fe,080,State House,43,,STEPHANIE GARCIA RICHARD,382
+Santa Fe,080,State House,43,,SHARON STOVER,100
+Sandoval,083,State House,44,,JANE E POWDRELL-CULBERT,663
+Santa Fe,089,State House,45,,JIM R TRUJILLO,885
+Santa Fe,090,State House,46,,CARL TRUJILLO,1221
+Santa Fe,088,State House,47,,BRIAN F EGOLF JR,559
+Santa Fe,088,State House,47,,ROGER ANDREW GONZALES,259
+Santa Fe,074,State House,48,,LINDA M TRUJILLO,461
+Catron,006,State House,49,,DON TRIPP,95
+Socorro,027,State House,49,,DON TRIPP,311
+Valencia,35,State House,49,,DON TRIPP,315
+McKinley,61,State House,5,,DOREEN W JOHNSON,137
+San Juan,18,State House,5,,DOREEN W JOHNSON,460
+Bernalillo,551,State House,50,,JEREMY RYAN TREMKO,58
+Bernalillo,551,State House,50,,MATTHEW MCQUEEN,98
+Santa Fe,085,State House,50,,JEREMY RYAN TREMKO,600
+Santa Fe,085,State House,50,,MATTHEW MCQUEEN,342
+Torrance,016,State House,50,,JEREMY RYAN TREMKO,149
+Torrance,016,State House,50,,MATTHEW MCQUEEN,161
+Valencia,38,State House,50,,JEREMY RYAN TREMKO,289
+Valencia,38,State House,50,,MATTHEW MCQUEEN,282
+Otero,40,State House,51,,DENISE A LANG,110
+Otero,40,State House,51,,YVETTE S HERRELL,287
+Dona Ana,120,State House,52,,DOREEN YBARRA GALLEGOS,55
+Dona Ana,076,State House,53,,RICKY L LITTLE,166
+Dona Ana,076,State House,53,,WILLIE A MADRID,161
+Otero,41,State House,53,,RICKY L LITTLE,131
+Otero,41,State House,53,,WILLIE A MADRID,333
+Chaves,104,State House,54,,JAMES G TOWNSEND,75
+Chaves,104,State House,54,,FREDDIE JOE NICHOLS III,2
+Eddy,41,State House,54,,JAMES G TOWNSEND,328
+Eddy,41,State House,54,,FREDDIE JOE NICHOLS III,36
+Otero,09,State House,54,,JAMES G TOWNSEND,351
+Otero,09,State House,54,,FREDDIE JOE NICHOLS III,137
+Eddy,45,State House,55,,CATHRYNN N BROWN,365
+Lincoln,022,State House,56,,ZACH J COOK,96
+Otero,38,State House,56,,ZACH J COOK,73
+Sandoval,084,State House,57,,JASON CARL HARPER,446
+Sandoval,084,State House,57,,DONNA I TILLMAN,385
+Chaves,102,State House,58,,CANDY SPENCE EZZELL,508
+Chaves,093,State House,59,,RICHARD JAMES GARCIA,201
+Chaves,093,State House,59,,GREG NIBERT,326
+Lincoln,020,State House,59,,RICHARD JAMES GARCIA,63
+Lincoln,020,State House,59,,GREG NIBERT,135
+Cibola,015,State House,6,,ELISEO LEE ALCON,521
+McKinley,54,State House,6,,ELISEO LEE ALCON,255
+Sandoval,086,State House,60,,TIM D LEWIS,675
+Lea,074,State House,61,,DAVID M GALLEGOS,165
+Lea,051,State House,62,,LARRY R SCOTT,125
+Curry,036,State House,63,,GEORGE DODGE JR,89
+De Baca,4,State House,63,,GEORGE DODGE JR,89
+Guadalupe,5,State House,63,,GEORGE DODGE JR,283
+Roosevelt,017,State House,63,,GEORGE DODGE JR,200
+San Miguel,017,State House,63,,GEORGE DODGE JR,53
+Curry,037,State House,64,,RANDAL S CROWDER,576
+Rio Arriba,029,State House,65,,DERRICK J LENTE,6
+San Juan,19,State House,65,,DERRICK J LENTE,148
+Sandoval,077,State House,65,,DERRICK J LENTE,383
+Chaves,047,State House,66,,BOB WOOLEY,6
+Lea,021,State House,66,,BOB WOOLEY,182
+Roosevelt,016,State House,66,,BOB WOOLEY,121
+Colfax,022,State House,67,,DENNIS J ROCH,342
+Curry,034,State House,67,,DENNIS J ROCH,84
+Harding,002,State House,67,,DENNIS J ROCH,211
+Quay,012,State House,67,,DENNIS J ROCH,278
+Roosevelt,018,State House,67,,DENNIS J ROCH,342
+San Miguel,015,State House,67,,DENNIS J ROCH,90
+Union,009,State House,67,,DENNIS J ROCH,59
+Bernalillo,170,State House,68,,MONICA C YOUNGBLOOD,730
+Bernalillo,093,State House,69,,HARRY GARCIA,468
+Cibola,025,State House,69,,HARRY GARCIA,110
+McKinley,62,State House,69,,HARRY GARCIA,136
+San Juan,15,State House,69,,HARRY GARCIA,270
+Socorro,015,State House,69,,HARRY GARCIA,398
+Valencia,13,State House,69,,HARRY GARCIA,220
+Valencia,36,State House,7,,ARTURO FIERRO,137
+Valencia,36,State House,7,,KELLY K FAJARDO,167
+San Miguel,028,State House,70,,TOMAS E SALAZAR,278
+Santa Fe,019,State House,70,,TOMAS E SALAZAR,103
+Torrance,015,State House,70,,TOMAS E SALAZAR,142
+Valencia,41,State House,8,,ALONZO BALDONADO,622
+Valencia,41,State House,8,,JIM D DANNER,351
+McKinley,59,State House,9,,"PATRICIA ""PATTY"" A LUNDSTROM",151
+San Juan,09,State House,9,,"PATRICIA ""PATTY"" A LUNDSTROM",185
+San Juan,56,State Senate,1,,REBECCA MORGAN,275
+San Juan,56,State Senate,1,,WILLIAM E SHARER,612
+Bernalillo,171,State Senate,10,,DAVID J SIMON,502
+Bernalillo,171,State Senate,10,,CANDACE RUTH GOULD,464
+Sandoval,085,State Senate,10,,DAVID J SIMON,323
+Sandoval,085,State Senate,10,,CANDACE RUTH GOULD,536
+Bernalillo,140,State Senate,11,,LINDA M LOPEZ,376
+Bernalillo,358,State Senate,12,,GERALD P ORTIZ Y PINO,338
+Bernalillo,455,State Senate,13,,AUBREY B DUNN,926
+Bernalillo,455,State Senate,13,,"BILL B O""NEILL",956
+Bernalillo,144,State Senate,14,,MICHAEL PADILLA,434
+Bernalillo,500,State Senate,15,,ERIC LYON BURTON,377
+Bernalillo,500,State Senate,15,,DANIEL A IVEY-SOTO,267
+Bernalillo,475,State Senate,16,,CISCO MCSORLEY,369
+Bernalillo,542,State Senate,17,,MIMI STEWART,332
+Bernalillo,563,State Senate,18,,LISA TORRACO,493
+Bernalillo,563,State Senate,18,,BILL G TALLMAN,345
+Bernalillo,573,State Senate,19,,HAROLD W MURPHREE,377
+Bernalillo,573,State Senate,19,,JAMES P WHITE,554
+Sandoval,028,State Senate,19,,HAROLD W MURPHREE,208
+Sandoval,028,State Senate,19,,JAMES P WHITE,353
+Santa Fe,085,State Senate,19,,HAROLD W MURPHREE,299
+Santa Fe,085,State Senate,19,,JAMES P WHITE,656
+Torrance,015,State Senate,19,,HAROLD W MURPHREE,69
+Torrance,015,State Senate,19,,JAMES P WHITE,161
+San Juan,77,State Senate,2,,STEVEN P NEVILLE,755
+Bernalillo,603,State Senate,20,,WILLIAM H PAYNE,1565
+Bernalillo,602,State Senate,21,,MARK DAVID MOORES,920
+Bernalillo,602,State Senate,21,,GREGORY B FRAZIER,464
+Bernalillo,031,State Senate,22,,BENNY SHENDO JR,323
+McKinley,62,State Senate,22,,BENNY SHENDO JR,148
+Rio Arriba,030,State Senate,22,,BENNY SHENDO JR,81
+San Juan,19,State Senate,22,,BENNY SHENDO JR,153
+Sandoval,084,State Senate,22,,BENNY SHENDO JR,568
+Bernalillo,129,State Senate,23,,SANDER RUE,263
+Bernalillo,129,State Senate,23,,JOY I GARRATT,224
+Santa Fe,089,State Senate,24,,NANCY RODRIGUEZ,888
+Santa Fe,090,State Senate,25,,PETER WIRTH,1242
+Bernalillo,136,State Senate,26,,JACOB CANDELARIA,572
+Chaves,073,State Senate,27,,STUART INGLE,207
+Curry,036,State Senate,27,,STUART INGLE,154
+De Baca,4,State Senate,27,,STUART INGLE,60
+Lea,003,State Senate,27,,STUART INGLE,414
+Roosevelt,018,State Senate,27,,STUART INGLE,362
+Catron,006,State Senate,28,,HOWIE C MORALES,58
+Grant,035,State Senate,28,,HOWIE C MORALES,42
+Socorro,027,State Senate,28,,HOWIE C MORALES,252
+Bernalillo,093,State Senate,29,,GREGORY A BACA,290
+Bernalillo,093,State Senate,29,,MICHAEL S SANCHEZ,406
+Valencia,36,State Senate,29,,GREGORY A BACA,177
+Valencia,36,State Senate,29,,MICHAEL S SANCHEZ,129
+McKinley,59,State Senate,3,,JOHN PINTO,137
+San Juan,25,State Senate,3,,JOHN PINTO,232
+Cibola,025,State Senate,30,,CLEMENTE SANCHEZ,120
+McKinley,30,State Senate,30,,CLEMENTE SANCHEZ,493
+Socorro,024,State Senate,30,,CLEMENTE SANCHEZ,143
+Valencia,41,State Senate,30,,CLEMENTE SANCHEZ,638
+Dona Ana,120,State Senate,31,,JOSEPH CERVANTES,59
+Chaves,104,State Senate,32,,CLIFF R PIRTLE,72
+Eddy,41,State Senate,32,,CLIFF R PIRTLE,322
+Otero,11,State Senate,32,,CLIFF R PIRTLE,212
+Chaves,085,State Senate,33,,WILLIAM F BURT,212
+Lincoln,022,State Senate,33,,WILLIAM F BURT,95
+Otero,40,State Senate,33,,WILLIAM F BURT,333
+Dona Ana,075,State Senate,34,,RON GRIGGS,510
+Eddy,45,State Senate,34,,RON GRIGGS,338
+Otero,41,State Senate,34,,RON GRIGGS,273
+Dona Ana,108,State Senate,35,,JOHN ARTHUR SMITH,549
+Hidalgo,6,State Senate,35,,JOHN ARTHUR SMITH,239
+Luna,014,State Senate,35,,JOHN ARTHUR SMITH,596
+Sierra,009,State Senate,35,,JOHN ARTHUR SMITH,586
+Dona Ana,115,State Senate,36,,JEFF STEINBORN,188
+Dona Ana,115,State Senate,36,,LEE S COTTER,291
+Dona Ana,119,State Senate,37,,CECELIA H LEVATINO,195
+Dona Ana,119,State Senate,37,,WILLIAM P SOULES,268
+Dona Ana,101,State Senate,38,,MARY KAY PAPEN,417
+Dona Ana,101,State Senate,38,,CHARLES R WENDLER,308
+Bernalillo,551,State Senate,39,,(TED) THEODORE BARELA,92
+Bernalillo,551,State Senate,39,,ELIZABETH LIZ STEFANICS,73
+Lincoln,021,State Senate,39,,(TED) THEODORE BARELA,319
+Lincoln,021,State Senate,39,,ELIZABETH LIZ STEFANICS,132
+San Miguel,024,State Senate,39,,(TED) THEODORE BARELA,159
+San Miguel,024,State Senate,39,,ELIZABETH LIZ STEFANICS,148
+Santa Fe,088,State Senate,39,,(TED) THEODORE BARELA,272
+Santa Fe,088,State Senate,39,,ELIZABETH LIZ STEFANICS,553
+Torrance,016,State Senate,39,,(TED) THEODORE BARELA,234
+Torrance,016,State Senate,39,,ELIZABETH LIZ STEFANICS,96
+Valencia,38,State Senate,39,,(TED) THEODORE BARELA,325
+Valencia,38,State Senate,39,,ELIZABETH LIZ STEFANICS,253
+Cibola,015,State Senate,4,,GEORGE K MUNOZ,521
+McKinley,58,State Senate,4,,GEORGE K MUNOZ,338
+San Juan,11,State Senate,4,,GEORGE K MUNOZ,285
+Sandoval,082,State Senate,40,,LINDA SANCHEZ ALLISON,381
+Sandoval,082,State Senate,40,,CRAIG W BRANDT,442
+Eddy,44,State Senate,41,,CARROLL H LEAVELL,580
+Lea,074,State Senate,41,,CARROLL H LEAVELL,167
+Chaves,047,State Senate,42,,GAY G KERNAN,6
+Eddy,42,State Senate,42,,GAY G KERNAN,28
+Lea,044,State Senate,42,,GAY G KERNAN,282
+Los Alamos,17,State Senate,5,,RICHARD C MARTINEZ,287
+Rio Arriba,042,State Senate,5,,RICHARD C MARTINEZ,114
+Sandoval,051,State Senate,5,,RICHARD C MARTINEZ,0
+Santa Fe,079,State Senate,5,,RICHARD C MARTINEZ,326
+Los Alamos,06,State Senate,6,,CARLOS R CISNEROS,597
+Rio Arriba,017,State Senate,6,,CARLOS R CISNEROS,90
+Santa Fe,087,State Senate,6,,CARLOS R CISNEROS,148
+Taos,036,State Senate,6,,CARLOS R CISNEROS,52
+Curry,037,State Senate,7,,JOHN PATRICK WOODS,575
+Quay,011,State Senate,7,,JOHN PATRICK WOODS,379
+Union,009,State Senate,7,,JOHN PATRICK WOODS,66
+Colfax,022,State Senate,8,,PETE CAMPOS,283
+Guadalupe,5,State Senate,8,,PETE CAMPOS,285
+Harding,002,State Senate,8,,PETE CAMPOS,211
+Mora,011,State Senate,8,,PETE CAMPOS,141
+Quay,012,State Senate,8,,PETE CAMPOS,206
+San Miguel,028,State Senate,8,,PETE CAMPOS,280
+Taos,026,State Senate,8,,PETE CAMPOS,43
+Bernalillo,006,State Senate,9,,JOHN M SAPIEN,513
+Bernalillo,006,State Senate,9,,DIEGO L ESPINOZA,458
+Sandoval,086,State Senate,9,,JOHN M SAPIEN,381
+Sandoval,086,State Senate,9,,DIEGO L ESPINOZA,513
