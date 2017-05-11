@@ -1,10 +1,9 @@
-
-
 import xlrd
 import csv
 import re
 import os
-import unicodedata
+
+#Python 3.4
 
 # header row for output
 header_row = ["county", "precinct", "office", 
@@ -28,11 +27,11 @@ def cell_finder(some_str, some_sheet):
 # in the primary election files, plus a few added to that by hand:
 # some late-arriving write-ins plus some independents
 
-with open("party_lookup.csv", "rU") as party_lookup:
+with open("party_lookup.csv", "rU", encoding="utf-8") as party_lookup:
 	lookup_dict = dict(filter(None, csv.reader(party_lookup)))
 
 
-with open("141104__nm__general__precinct.csv", "a") as csv_file:
+with open("20141104__nm__general__precinct.csv", "a", encoding="utf-8") as csv_file:
 	writer = csv.writer(csv_file)
 	writer.writerow(header_row)
 
@@ -44,10 +43,9 @@ with open("141104__nm__general__precinct.csv", "a") as csv_file:
 
 	files_to_tabulate = []
 	for n in range(len(all_files)):
-		if "20141104" in all_files[n] and "xlsx" in all_files[n]:
+		if "xlsx" in all_files[n]:
 			files_to_tabulate.append(all_files[n])
 
-	
 	# Loop through the filenames.
 	# Grab the precinct and the office 
 	# from the filename
@@ -87,6 +85,7 @@ with open("141104__nm__general__precinct.csv", "a") as csv_file:
 			
 			# get clean county name
 			county_raw = sh.name
+			print (county_raw)
 			county_split = county_raw.split("-")
 
 			# look for the row where the data starts
@@ -114,10 +113,9 @@ with open("141104__nm__general__precinct.csv", "a") as csv_file:
 				# start grabbing data on the row right after subhed_location
 				counter = (subhed_location[0] + 1)
 
-				print (counter)
-
 				while (counter < totals_row):
-					new_row = [county_split[0][:-1].encode('latin-1').replace(chr(0xf1), "n")]
+
+					new_row = [county_split[0][:-1]]
 
 					# Get the precinct number (ie, the cell at row[counter], column A)
 					# They're formated differently. Some say PCT, PRECINCT or just an int
@@ -149,20 +147,19 @@ with open("141104__nm__general__precinct.csv", "a") as csv_file:
 					# then use name to generate party
 
 					cand_name = candidates[j].value
-					name_no_accent = unicodedata.normalize('NFKD', cand_name).encode("latin-1", "ignore")
-
-					party = lookup_dict[name_no_accent]
+					
+					party = lookup_dict[cand_name]
 
 					#append party and name in the correct order
 
 					new_row.append(party)
-					new_row.append(name_no_accent)
+					new_row.append(cand_name)
 
 					# get the candidate votes (ie, the cell at counter, column j+1)
 					votes = int(sh.cell(counter, j+1).value)
 
 					new_row.append(votes)
 					
-					print (new_row)
+					# print (new_row)
 					writer.writerow(new_row)
 					counter = counter + 1

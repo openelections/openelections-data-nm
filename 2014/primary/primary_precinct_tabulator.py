@@ -2,7 +2,8 @@ import xlrd
 import csv
 import os
 import re
-import unicodedata
+
+# Python 3.4
 
 def cell_finder(some_str, some_sheet):
 	for row in range (some_sheet.nrows):
@@ -13,7 +14,7 @@ def cell_finder(some_str, some_sheet):
 header_row = ["county", "precinct", "office", 
 			 "district", "party", "candidate", "votes"]
 
-with open("140703__nm__primary__precinct.csv", "a") as csv_file:
+with open("20140603__nm__primary__precinct.csv", "a", encoding="utf-8") as csv_file:
 	writer = csv.writer(csv_file)
 	writer.writerow(header_row)
 
@@ -113,7 +114,9 @@ with open("140703__nm__primary__precinct.csv", "a") as csv_file:
 					# append county name
 					# replace accented characters with unaccented
 
-					new_row = [unicodedata.normalize('NFKD', county_split[0][:-1]).encode("latin-1", "ignore")]
+					# new_row = [unicodedata.normalize('NFKD', county_split[0][:-1]).encode("latin-1", "ignore")]
+
+					new_row = [county_split[0][:-1]]
 
 					# Get the precinct number (ie, the cell at row[counter], column A)
 					# They're formated differently. Some say PCT, PRECINCT or just an int
@@ -147,8 +150,8 @@ with open("140703__nm__primary__precinct.csv", "a") as csv_file:
 					#candidate_name
 					#replace accented characters with unaccented ones
 					cand_name = candidates[j].value
-					name_no_accent = unicodedata.normalize('NFKD', cand_name).encode("latin-1", "ignore")
-					new_row.append(name_no_accent)
+					# name_no_accent = unicodedata.normalize('NFKD', cand_name).encode("latin-1", "ignore")
+					new_row.append(cand_name)
 
 					# get the candidate votes (ie, the cell at counter, column j+1)
 					votes = int(sh.cell(counter, j+1).value)
