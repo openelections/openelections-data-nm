@@ -1,0 +1,720 @@
+county,office,district,party,candidate,votes
+Bernalillo,House,1,Republican,RICHARD GREGORY PRIEM,86866
+Bernalillo,House,1,Democratic,MICHELLE LUJAN GRISHAM,168113
+Bernalillo,House,2,Republican,STEVE PEARCE,400
+Bernalillo,House,2,,JACK A MCGRANN,0
+Bernalillo,House,2,Democratic,MERRIE LEE SOULES,316
+Bernalillo,House,3,Democratic,BEN R LUJAN,6123
+Bernalillo,House,3,Republican,MICHAEL H ROMERO,5653
+Bernalillo,President,,Green,JILL STEIN,3614
+Bernalillo,President,,Democratic,HILLARY RODHAM CLINTON,143417
+Bernalillo,President,,,"""ROCKY"" ROQUE DE LA FUENTE",151
+Bernalillo,President,,,EVAN MCMULLIN,2181
+Bernalillo,President,,Republican,DONALD J TRUMP,94698
+Bernalillo,President,,Libertarian,GARY JOHNSON,29682
+Bernalillo,President,,Constitution,DARRELL CASTLE,474
+Bernalillo,President,,,GLORIA LA RIVA,445
+Bernalillo,Secretary Of State,,Republican,NORA ESPINOZA,98628
+Bernalillo,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,165274
+Bernalillo,State House,10,Democratic,G ANDRES ROMERO,4821
+Bernalillo,State House,10,,ROBERT A SCHILLER,2337
+Bernalillo,State House,11,Democratic,JAVIER I MARTINEZ,10118
+Bernalillo,State House,12,Democratic,PATRICIO R RUILOBA,5036
+Bernalillo,State House,13,Democratic,PATRICIA A ROYBAL CABALLERO,5525
+Bernalillo,State House,14,Democratic,MIGUEL P GARCIA,6209
+Bernalillo,State House,15,Democratic,ANE C ROMERO,6467
+Bernalillo,State House,15,Republican,SARAH MAESTAS BARNES,7358
+Bernalillo,State House,16,Democratic,"ANTONIO ""MOE"" MAESTAS",8256
+Bernalillo,State House,17,Democratic,DEBORAH A ARMSTRONG,8640
+Bernalillo,State House,18,Democratic,GAIL CHASEY,9922
+Bernalillo,State House,19,Democratic,SHERYL M WILLIAMS STAPLETON,8289
+Bernalillo,State House,20,Democratic,GIOVANNI ALEXANDER HAQANI,5389
+Bernalillo,State House,20,Republican,JIM DINES,7350
+Bernalillo,State House,21,Democratic,DEBRA MARIE SARINANA,4685
+Bernalillo,State House,22,Republican,JAMES E SMITH,5772
+Bernalillo,State House,22,Democratic,JOHN M WALLACE,4152
+Bernalillo,State House,23,Republican,PAUL A PACHECO,4036
+Bernalillo,State House,23,Democratic,DAYMON B ELY,3976
+Bernalillo,State House,24,Republican,CHRISTINA MARIE HALL,6198
+Bernalillo,State House,24,Democratic,ELIZABETH L THOMSON,6798
+Bernalillo,State House,25,Democratic,CHRISTINE TRUJILLO,9807
+Bernalillo,State House,26,Democratic,GEORGENE LOUIS,4800
+Bernalillo,State House,27,Republican,LORENZO A LARRA��AGA,9110
+Bernalillo,State House,27,Democratic,RONALD E KRISE,6457
+Bernalillo,State House,28,Republican,JIMMIE C HALL,10279
+Bernalillo,State House,29,Republican,DAVID E ADKINS,6977
+Bernalillo,State House,29,Democratic,RONNIE MARTINEZ,6968
+Bernalillo,State House,30,Democratic,NATALIE R FIGUEROA,6267
+Bernalillo,State House,30,Republican,NATE GENTRY,6841
+Bernalillo,State House,31,Democratic,ROBERT L SCOTT,7051
+Bernalillo,State House,31,Republican,WILLIAM R REHM,10760
+Bernalillo,State House,50,Republican,JEREMY RYAN TREMKO,58
+Bernalillo,State House,50,Democratic,MATTHEW MCQUEEN,98
+Bernalillo,State House,68,Republican,MONICA C YOUNGBLOOD,9637
+Bernalillo,State House,69,Democratic,HARRY GARCIA,757
+Bernalillo,State Senate,9,Democratic,JOHN M SAPIEN,513
+Bernalillo,State Senate,9,Republican,DIEGO L ESPINOZA,458
+Bernalillo,State Senate,10,Republican,CANDACE RUTH GOULD,9035
+Bernalillo,State Senate,10,Democratic,DAVID J SIMON,8883
+Bernalillo,State Senate,11,Democratic,LINDA M LOPEZ,8776
+Bernalillo,State Senate,12,Democratic,GERALD P ORTIZ Y PINO,12922
+Bernalillo,State Senate,13,Democratic,"BILL B O""NEILL",14089
+Bernalillo,State Senate,13,Republican,AUBREY B DUNN,7294
+Bernalillo,State Senate,14,Democratic,MICHAEL PADILLA,9668
+Bernalillo,State Senate,15,Democratic,DANIEL A IVEY-SOTO,11321
+Bernalillo,State Senate,15,Republican,ERIC LYON BURTON,8981
+Bernalillo,State Senate,16,Democratic,CISCO MCSORLEY,16721
+Bernalillo,State Senate,17,Democratic,MIMI STEWART,8456
+Bernalillo,State Senate,18,Republican,LISA TORRACO,11750
+Bernalillo,State Senate,18,Democratic,BILL G TALLMAN,12203
+Bernalillo,State Senate,19,Democratic,HAROLD W MURPHREE,6680
+Bernalillo,State Senate,19,Republican,JAMES P WHITE,9142
+Bernalillo,State Senate,20,Republican,WILLIAM H PAYNE,16893
+Bernalillo,State Senate,21,Republican,MARK DAVID MOORES,14164
+Bernalillo,State Senate,21,Democratic,GREGORY B FRAZIER,11087
+Bernalillo,State Senate,22,Democratic,BENNY SHENDO JR,323
+Bernalillo,State Senate,23,Republican,SANDER RUE,11794
+Bernalillo,State Senate,23,Democratic,JOY I GARRATT,11001
+Bernalillo,State Senate,26,Democratic,JACOB CANDELARIA,11330
+Bernalillo,State Senate,29,Democratic,MICHAEL S SANCHEZ,406
+Bernalillo,State Senate,29,Republican,GREGORY A BACA,290
+Bernalillo,State Senate,39,Republican,(TED) THEODORE BARELA,92
+Bernalillo,State Senate,39,Democratic,ELIZABETH LIZ STEFANICS,73
+Catron,House,2,,JACK A MCGRANN,2
+Catron,House,2,Democratic,MERRIE LEE SOULES,469
+Catron,House,2,Republican,STEVE PEARCE,1536
+Catron,President,,Green,JILL STEIN,23
+Catron,President,,Constitution,DARRELL CASTLE,12
+Catron,President,,Democratic,HILLARY RODHAM CLINTON,427
+Catron,President,,Republican,DONALD J TRUMP,1464
+Catron,President,,,EVAN MCMULLIN,11
+Catron,President,,,"""ROCKY"" ROQUE DE LA FUENTE",1
+Catron,President,,,GLORIA LA RIVA,0
+Catron,President,,Libertarian,GARY JOHNSON,111
+Catron,Secretary Of State,,Republican,NORA ESPINOZA,1355
+Catron,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,599
+Catron,State House,49,Republican,DON TRIPP,1663
+Catron,State Senate,28,Democratic,HOWIE C MORALES,995
+Chaves,House,2,Republican,STEVE PEARCE,14920
+Chaves,House,2,,JACK A MCGRANN,3
+Chaves,House,2,Democratic,MERRIE LEE SOULES,4929
+Chaves,President,,Green,JILL STEIN,86
+Chaves,President,,Democratic,HILLARY RODHAM CLINTON,5534
+Chaves,President,,,"""ROCKY"" ROQUE DE LA FUENTE",14
+Chaves,President,,,EVAN MCMULLIN,102
+Chaves,President,,Republican,DONALD J TRUMP,12872
+Chaves,President,,Libertarian,GARY JOHNSON,1609
+Chaves,President,,Constitution,DARRELL CASTLE,32
+Chaves,President,,,GLORIA LA RIVA,22
+Chaves,Secretary Of State,,Republican,NORA ESPINOZA,13233
+Chaves,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,6583
+Chaves,State House,54,Republican,JAMES G TOWNSEND,226
+Chaves,State House,54,,FREDDIE JOE NICHOLS III,39
+Chaves,State House,58,Republican,CANDY SPENCE EZZELL,5001
+Chaves,State House,59,Democratic,RICHARD JAMES GARCIA,2360
+Chaves,State House,59,Republican,GREG NIBERT,5689
+Chaves,State House,66,Republican,BOB WOOLEY,4367
+Chaves,State Senate,27,Republican,STUART INGLE,5126
+Chaves,State Senate,32,Republican,CLIFF R PIRTLE,7292
+Chaves,State Senate,33,Republican,WILLIAM F BURT,3531
+Chaves,State Senate,42,Republican,GAY G KERNAN,6
+Cibola,House,2,,JACK A MCGRANN,1
+Cibola,House,2,Democratic,MERRIE LEE SOULES,2945
+Cibola,House,2,Republican,STEVE PEARCE,4943
+Cibola,President,,Green,JILL STEIN,73
+Cibola,President,,Constitution,DARRELL CASTLE,16
+Cibola,President,,Democratic,HILLARY RODHAM CLINTON,3741
+Cibola,President,,Republican,DONALD J TRUMP,3195
+Cibola,President,,,EVAN MCMULLIN,43
+Cibola,President,,,"""ROCKY"" ROQUE DE LA FUENTE",5
+Cibola,President,,,GLORIA LA RIVA,20
+Cibola,President,,Libertarian,GARY JOHNSON,970
+Cibola,Secretary Of State,,Republican,NORA ESPINOZA,3133
+Cibola,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,4614
+Cibola,State House,6,Democratic,ELISEO LEE ALCON,2383
+Cibola,State House,69,Democratic,HARRY GARCIA,3544
+Cibola,State Senate,4,Democratic,GEORGE K MUNOZ,1835
+Cibola,State Senate,30,Democratic,CLEMENTE SANCHEZ,4489
+Colfax,House,3,Republican,MICHAEL H ROMERO,2260
+Colfax,House,3,Democratic,BEN R LUJAN,2999
+Colfax,President,,Green,JILL STEIN,37
+Colfax,President,,Constitution,DARRELL CASTLE,12
+Colfax,President,,Democratic,HILLARY RODHAM CLINTON,2129
+Colfax,President,,Republican,DONALD J TRUMP,2585
+Colfax,President,,,EVAN MCMULLIN,31
+Colfax,President,,,"""ROCKY"" ROQUE DE LA FUENTE",6
+Colfax,President,,,GLORIA LA RIVA,5
+Colfax,President,,Libertarian,GARY JOHNSON,527
+Colfax,Secretary Of State,,Republican,NORA ESPINOZA,2478
+Colfax,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,2683
+Colfax,State House,40,Democratic,NICK L SALAZAR,1559
+Colfax,State House,67,Republican,DENNIS J ROCH,1908
+Colfax,State Senate,8,Democratic,PETE CAMPOS,3640
+Curry,House,3,Republican,MICHAEL H ROMERO,8681
+Curry,House,3,Democratic,BEN R LUJAN,4318
+Curry,President,,Green,JILL STEIN,74
+Curry,President,,Constitution,DARRELL CASTLE,39
+Curry,President,,Democratic,HILLARY RODHAM CLINTON,3121
+Curry,President,,Republican,DONALD J TRUMP,9035
+Curry,President,,,EVAN MCMULLIN,112
+Curry,President,,,"""ROCKY"" ROQUE DE LA FUENTE",6
+Curry,President,,,GLORIA LA RIVA,10
+Curry,President,,Libertarian,GARY JOHNSON,973
+Curry,Secretary Of State,,Republican,NORA ESPINOZA,8720
+Curry,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,4051
+Curry,State House,63,Democratic,GEORGE DODGE JR,2149
+Curry,State House,64,Republican,RANDAL S CROWDER,7732
+Curry,State House,67,Republican,DENNIS J ROCH,652
+Curry,State Senate,7,Republican,JOHN PATRICK WOODS,9432
+Curry,State Senate,27,Republican,STUART INGLE,1234
+De Baca,House,2,,JACK A MCGRANN,0
+De Baca,House,2,Democratic,MERRIE LEE SOULES,162
+De Baca,House,2,Republican,STEVE PEARCE,715
+De Baca,President,,Green,JILL STEIN,6
+De Baca,President,,Constitution,DARRELL CASTLE,0
+De Baca,President,,Democratic,HILLARY RODHAM CLINTON,193
+De Baca,President,,Republican,DONALD J TRUMP,620
+De Baca,President,,,EVAN MCMULLIN,2
+De Baca,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+De Baca,President,,,GLORIA LA RIVA,0
+De Baca,President,,Libertarian,GARY JOHNSON,89
+De Baca,Secretary Of State,,Republican,NORA ESPINOZA,529
+De Baca,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,320
+De Baca,State House,63,Democratic,GEORGE DODGE JR,653
+De Baca,State Senate,27,Republican,STUART INGLE,675
+Dona Ana,House,2,Republican,STEVE PEARCE,32633
+Dona Ana,House,2,,JACK A MCGRANN,47
+Dona Ana,House,2,Democratic,MERRIE LEE SOULES,36362
+Dona Ana,President,,Green,JILL STEIN,953
+Dona Ana,President,,Democratic,HILLARY RODHAM CLINTON,37947
+Dona Ana,President,,,"""ROCKY"" ROQUE DE LA FUENTE",65
+Dona Ana,President,,,EVAN MCMULLIN,566
+Dona Ana,President,,Republican,DONALD J TRUMP,25374
+Dona Ana,President,,Libertarian,GARY JOHNSON,5471
+Dona Ana,President,,Constitution,DARRELL CASTLE,157
+Dona Ana,President,,,GLORIA LA RIVA,115
+Dona Ana,Secretary Of State,,Republican,NORA ESPINOZA,30109
+Dona Ana,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,37753
+Dona Ana,State House,33,Democratic,BILL MCCAMLEY,6605
+Dona Ana,State House,33,Republican,NEAL L HOOKS,3619
+Dona Ana,State House,34,Democratic,BEALQUIN BILL GOMEZ,5757
+Dona Ana,State House,35,Democratic,ANGELICA RUBIO,6412
+Dona Ana,State House,35,Republican,JOSEPH E BISHOP,3782
+Dona Ana,State House,36,Democratic,NATHAN P SMALL,5435
+Dona Ana,State House,36,Republican,ANDREW ANDY NUNEZ,4184
+Dona Ana,State House,37,Republican,TERRY H MCMILLAN,6760
+Dona Ana,State House,37,Democratic,JOANNE J FERRARY,7483
+Dona Ana,State House,39,Republican,JOHN L ZIMMERMAN,2971
+Dona Ana,State House,39,Democratic,RODOLPHO S MARTINEZ,2442
+Dona Ana,State House,52,Democratic,DOREEN YBARRA GALLEGOS,5796
+Dona Ana,State House,53,Republican,RICKY L LITTLE,1870
+Dona Ana,State House,53,Democratic,WILLIE A MADRID,1746
+Dona Ana,State Senate,31,Democratic,JOSEPH CERVANTES,9443
+Dona Ana,State Senate,34,Republican,RON GRIGGS,510
+Dona Ana,State Senate,35,Democratic,JOHN ARTHUR SMITH,2139
+Dona Ana,State Senate,36,Republican,LEE S COTTER,7158
+Dona Ana,State Senate,36,Democratic,JEFF STEINBORN,10579
+Dona Ana,State Senate,37,Republican,CECELIA H LEVATINO,9131
+Dona Ana,State Senate,37,Democratic,WILLIAM P SOULES,11374
+Dona Ana,State Senate,38,Republican,CHARLES R WENDLER,4713
+Dona Ana,State Senate,38,Democratic,MARY KAY PAPEN,9588
+Eddy,House,2,,JACK A MCGRANN,1
+Eddy,House,2,Democratic,MERRIE LEE SOULES,4324
+Eddy,House,2,Republican,STEVE PEARCE,14881
+Eddy,President,,Green,JILL STEIN,84
+Eddy,President,,Constitution,DARRELL CASTLE,27
+Eddy,President,,Democratic,HILLARY RODHAM CLINTON,5033
+Eddy,President,,Republican,DONALD J TRUMP,13147
+Eddy,President,,,EVAN MCMULLIN,83
+Eddy,President,,,"""ROCKY"" ROQUE DE LA FUENTE",6
+Eddy,President,,,GLORIA LA RIVA,12
+Eddy,President,,Libertarian,GARY JOHNSON,1275
+Eddy,Secretary Of State,,Republican,NORA ESPINOZA,12634
+Eddy,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,6150
+Eddy,State House,54,,FREDDIE JOE NICHOLS III,1770
+Eddy,State House,54,Republican,JAMES G TOWNSEND,5238
+Eddy,State House,55,Republican,CATHRYNN N BROWN,9280
+Eddy,State Senate,32,Republican,CLIFF R PIRTLE,976
+Eddy,State Senate,34,Republican,RON GRIGGS,3722
+Eddy,State Senate,41,Republican,CARROLL H LEAVELL,3505
+Eddy,State Senate,42,Republican,GAY G KERNAN,6470
+Grant,House,2,,JACK A MCGRANN,0
+Grant,House,2,Democratic,MERRIE LEE SOULES,6194
+Grant,House,2,Republican,STEVE PEARCE,6374
+Grant,President,,Green,JILL STEIN,218
+Grant,President,,Constitution,DARRELL CASTLE,25
+Grant,President,,Democratic,HILLARY RODHAM CLINTON,6276
+Grant,President,,Republican,DONALD J TRUMP,5288
+Grant,President,,,EVAN MCMULLIN,80
+Grant,President,,,"""ROCKY"" ROQUE DE LA FUENTE",6
+Grant,President,,,GLORIA LA RIVA,19
+Grant,President,,Libertarian,GARY JOHNSON,899
+Grant,Secretary Of State,,Republican,NORA ESPINOZA,5109
+Grant,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,7246
+Grant,State House,32,Republican,VICKI K CHAVEZ,24
+Grant,State House,32,Democratic,CANDIE G SWEETSER,19
+Grant,State House,38,Republican,REBECCA L DOW,4026
+Grant,State House,38,Democratic,MARY E HOTVEDT,4377
+Grant,State House,39,Democratic,RODOLPHO S MARTINEZ,2424
+Grant,State House,39,Republican,JOHN L ZIMMERMAN,1561
+Grant,State Senate,28,Democratic,HOWIE C MORALES,9881
+Guadalupe,House,2,,JACK A MCGRANN,0
+Guadalupe,House,2,Democratic,MERRIE LEE SOULES,698
+Guadalupe,House,2,Republican,STEVE PEARCE,1050
+Guadalupe,President,,Green,JILL STEIN,18
+Guadalupe,President,,Constitution,DARRELL CASTLE,1
+Guadalupe,President,,Democratic,HILLARY RODHAM CLINTON,970
+Guadalupe,President,,Republican,DONALD J TRUMP,595
+Guadalupe,President,,,EVAN MCMULLIN,5
+Guadalupe,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Guadalupe,President,,,GLORIA LA RIVA,0
+Guadalupe,President,,Libertarian,GARY JOHNSON,238
+Guadalupe,Secretary Of State,,Republican,NORA ESPINOZA,627
+Guadalupe,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,1121
+Guadalupe,State House,63,Democratic,GEORGE DODGE JR,1399
+Guadalupe,State Senate,8,Democratic,PETE CAMPOS,1378
+Harding,House,3,Republican,MICHAEL H ROMERO,285
+Harding,House,3,Democratic,BEN R LUJAN,228
+Harding,President,,Green,JILL STEIN,3
+Harding,President,,Constitution,DARRELL CASTLE,2
+Harding,President,,Democratic,HILLARY RODHAM CLINTON,156
+Harding,President,,Republican,DONALD J TRUMP,311
+Harding,President,,,EVAN MCMULLIN,0
+Harding,President,,,"""ROCKY"" ROQUE DE LA FUENTE",0
+Harding,President,,,GLORIA LA RIVA,0
+Harding,President,,Libertarian,GARY JOHNSON,55
+Harding,Secretary Of State,,Republican,NORA ESPINOZA,292
+Harding,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,205
+Harding,State House,67,Republican,DENNIS J ROCH,370
+Harding,State Senate,8,Democratic,PETE CAMPOS,348
+Hidalgo,House,2,,JACK A MCGRANN,0
+Hidalgo,House,2,Democratic,MERRIE LEE SOULES,652
+Hidalgo,House,2,Republican,STEVE PEARCE,1161
+Hidalgo,President,,Green,JILL STEIN,6
+Hidalgo,President,,Constitution,DARRELL CASTLE,2
+Hidalgo,President,,Democratic,HILLARY RODHAM CLINTON,784
+Hidalgo,President,,Republican,DONALD J TRUMP,910
+Hidalgo,President,,,EVAN MCMULLIN,27
+Hidalgo,President,,,"""ROCKY"" ROQUE DE LA FUENTE",3
+Hidalgo,President,,,GLORIA LA RIVA,3
+Hidalgo,President,,Libertarian,GARY JOHNSON,137
+Hidalgo,Secretary Of State,,Republican,NORA ESPINOZA,858
+Hidalgo,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,916
+Hidalgo,State House,32,Republican,VICKI K CHAVEZ,726
+Hidalgo,State House,32,Democratic,CANDIE G SWEETSER,904
+Hidalgo,State House,38,Republican,REBECCA L DOW,167
+Hidalgo,State House,38,Democratic,MARY E HOTVEDT,23
+Hidalgo,State Senate,35,Democratic,JOHN ARTHUR SMITH,1386
+Lea,House,2,,JACK A MCGRANN,0
+Lea,House,2,Democratic,MERRIE LEE SOULES,2884
+Lea,House,2,Republican,STEVE PEARCE,14430
+Lea,President,,Green,JILL STEIN,56
+Lea,President,,Constitution,DARRELL CASTLE,26
+Lea,President,,Democratic,HILLARY RODHAM CLINTON,3930
+Lea,President,,Republican,DONALD J TRUMP,12495
+Lea,President,,,EVAN MCMULLIN,80
+Lea,President,,,"""ROCKY"" ROQUE DE LA FUENTE",10
+Lea,President,,,GLORIA LA RIVA,17
+Lea,President,,Libertarian,GARY JOHNSON,1098
+Lea,Secretary Of State,,Republican,NORA ESPINOZA,12373
+Lea,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,4440
+Lea,State House,61,Republican,DAVID M GALLEGOS,4735
+Lea,State House,62,Republican,LARRY R SCOTT,7948
+Lea,State House,66,Republican,BOB WOOLEY,1649
+Lea,State Senate,27,Republican,STUART INGLE,439
+Lea,State Senate,41,Republican,CARROLL H LEAVELL,5501
+Lea,State Senate,42,Republican,GAY G KERNAN,8730
+Lincoln,House,2,,JACK A MCGRANN,4
+Lincoln,House,2,Democratic,MERRIE LEE SOULES,2192
+Lincoln,House,2,Republican,STEVE PEARCE,6545
+Lincoln,President,,Green,JILL STEIN,59
+Lincoln,President,,Constitution,DARRELL CASTLE,9
+Lincoln,President,,Democratic,HILLARY RODHAM CLINTON,2331
+Lincoln,President,,Republican,DONALD J TRUMP,5896
+Lincoln,President,,,EVAN MCMULLIN,36
+Lincoln,President,,,"""ROCKY"" ROQUE DE LA FUENTE",2
+Lincoln,President,,,GLORIA LA RIVA,9
+Lincoln,President,,Libertarian,GARY JOHNSON,560
+Lincoln,Secretary Of State,,Republican,NORA ESPINOZA,5826
+Lincoln,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,2796
+Lincoln,State House,56,Republican,ZACH J COOK,3672
+Lincoln,State House,59,Republican,GREG NIBERT,2905
+Lincoln,State House,59,Democratic,RICHARD JAMES GARCIA,1105
+Lincoln,State Senate,33,Republican,WILLIAM F BURT,3599
+Lincoln,State Senate,39,Republican,(TED) THEODORE BARELA,3001
+Lincoln,State Senate,39,Democratic,ELIZABETH LIZ STEFANICS,942
+Los Alamos,House,3,Republican,MICHAEL H ROMERO,4151
+Los Alamos,House,3,Democratic,BEN R LUJAN,6514
+Los Alamos,President,,Green,JILL STEIN,120
+Los Alamos,President,,Constitution,DARRELL CASTLE,29
+Los Alamos,President,,Democratic,HILLARY RODHAM CLINTON,5562
+Los Alamos,President,,Republican,DONALD J TRUMP,3359
+Los Alamos,President,,,EVAN MCMULLIN,291
+Los Alamos,President,,,"""ROCKY"" ROQUE DE LA FUENTE",5
+Los Alamos,President,,,GLORIA LA RIVA,7
+Los Alamos,President,,Libertarian,GARY JOHNSON,1512
+Los Alamos,Secretary Of State,,Republican,NORA ESPINOZA,4655
+Los Alamos,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,5785
+Los Alamos,State House,43,Democratic,STEPHANIE GARCIA RICHARD,6022
+Los Alamos,State House,43,Republican,SHARON STOVER,4727
+Los Alamos,State Senate,5,Democratic,RICHARD C MARTINEZ,4681
+Los Alamos,State Senate,6,Democratic,CARLOS R CISNEROS,2240
+Luna,House,2,,JACK A MCGRANN,0
+Luna,House,2,Democratic,MERRIE LEE SOULES,2757
+Luna,House,2,Republican,STEVE PEARCE,4255
+Luna,President,,Green,JILL STEIN,66
+Luna,President,,Constitution,DARRELL CASTLE,13
+Luna,President,,Democratic,HILLARY RODHAM CLINTON,3195
+Luna,President,,Republican,DONALD J TRUMP,3478
+Luna,President,,,EVAN MCMULLIN,50
+Luna,President,,,"""ROCKY"" ROQUE DE LA FUENTE",7
+Luna,President,,,GLORIA LA RIVA,5
+Luna,President,,Libertarian,GARY JOHNSON,481
+Luna,Secretary Of State,,Republican,NORA ESPINOZA,3473
+Luna,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,3434
+Luna,State House,32,Republican,VICKI K CHAVEZ,3506
+Luna,State House,32,Democratic,CANDIE G SWEETSER,3563
+Luna,State Senate,35,Democratic,JOHN ARTHUR SMITH,5489
+McKinley,House,2,Republican,STEVE PEARCE,955
+McKinley,House,2,,JACK A MCGRANN,1
+McKinley,House,2,Democratic,MERRIE LEE SOULES,909
+McKinley,House,3,Republican,MICHAEL H ROMERO,4627
+McKinley,House,3,Democratic,BEN R LUJAN,14684
+McKinley,President,,Green,JILL STEIN,284
+McKinley,President,,Democratic,HILLARY RODHAM CLINTON,13576
+McKinley,President,,,"""ROCKY"" ROQUE DE LA FUENTE",20
+McKinley,President,,,EVAN MCMULLIN,173
+McKinley,President,,Republican,DONALD J TRUMP,5104
+McKinley,President,,Libertarian,GARY JOHNSON,2412
+McKinley,President,,Constitution,DARRELL CASTLE,58
+McKinley,President,,,GLORIA LA RIVA,76
+McKinley,Secretary Of State,,Republican,NORA ESPINOZA,6092
+McKinley,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,14393
+McKinley,State House,5,Democratic,DOREEN W JOHNSON,5613
+McKinley,State House,6,Democratic,ELISEO LEE ALCON,4324
+McKinley,State House,9,Democratic,"PATRICIA ""PATTY"" A LUNDSTROM",5658
+McKinley,State House,69,Democratic,HARRY GARCIA,966
+McKinley,State Senate,3,Democratic,JOHN PINTO,4886
+McKinley,State Senate,4,Democratic,GEORGE K MUNOZ,9457
+McKinley,State Senate,22,Democratic,BENNY SHENDO JR,2689
+McKinley,State Senate,30,Democratic,CLEMENTE SANCHEZ,493
+Mora,House,3,Republican,MICHAEL H ROMERO,614
+Mora,House,3,Democratic,BEN R LUJAN,1789
+Mora,President,,Green,JILL STEIN,35
+Mora,President,,Constitution,DARRELL CASTLE,4
+Mora,President,,Democratic,HILLARY RODHAM CLINTON,1536
+Mora,President,,Republican,DONALD J TRUMP,665
+Mora,President,,,EVAN MCMULLIN,5
+Mora,President,,,"""ROCKY"" ROQUE DE LA FUENTE",1
+Mora,President,,,GLORIA LA RIVA,1
+Mora,President,,Libertarian,GARY JOHNSON,194
+Mora,Secretary Of State,,Republican,NORA ESPINOZA,727
+Mora,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,1590
+Mora,State House,40,Democratic,NICK L SALAZAR,1708
+Mora,State Senate,8,Democratic,PETE CAMPOS,1743
+Otero,House,2,Republican,STEVE PEARCE,13982
+Otero,House,2,,JACK A MCGRANN,9
+Otero,House,2,Democratic,MERRIE LEE SOULES,5580
+Otero,President,,Green,JILL STEIN,169
+Otero,President,,Democratic,HILLARY RODHAM CLINTON,6124
+Otero,President,,,"""ROCKY"" ROQUE DE LA FUENTE",15
+Otero,President,,,EVAN MCMULLIN,162
+Otero,President,,Republican,DONALD J TRUMP,11887
+Otero,President,,Libertarian,GARY JOHNSON,1613
+Otero,President,,Constitution,DARRELL CASTLE,67
+Otero,President,,,GLORIA LA RIVA,23
+Otero,Secretary Of State,,Republican,NORA ESPINOZA,11993
+Otero,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,7230
+Otero,State House,51,Democratic,DENISE A LANG,3353
+Otero,State House,51,Republican,YVETTE S HERRELL,6447
+Otero,State House,53,Republican,RICKY L LITTLE,934
+Otero,State House,53,Democratic,WILLIE A MADRID,920
+Otero,State House,54,Republican,JAMES G TOWNSEND,1634
+Otero,State House,54,,FREDDIE JOE NICHOLS III,483
+Otero,State House,56,Republican,ZACH J COOK,4000
+Otero,State Senate,32,Republican,CLIFF R PIRTLE,212
+Otero,State Senate,33,Republican,WILLIAM F BURT,7518
+Otero,State Senate,34,Republican,RON GRIGGS,7310
+Quay,House,3,Republican,MICHAEL H ROMERO,1933
+Quay,House,3,Democratic,BEN R LUJAN,1555
+Quay,President,,Green,JILL STEIN,15
+Quay,President,,Constitution,DARRELL CASTLE,8
+Quay,President,,Democratic,HILLARY RODHAM CLINTON,1017
+Quay,President,,Republican,DONALD J TRUMP,2212
+Quay,President,,,EVAN MCMULLIN,17
+Quay,President,,,"""ROCKY"" ROQUE DE LA FUENTE",2
+Quay,President,,,GLORIA LA RIVA,2
+Quay,President,,Libertarian,GARY JOHNSON,299
+Quay,Secretary Of State,,Republican,NORA ESPINOZA,1935
+Quay,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,1471
+Quay,State House,67,Republican,DENNIS J ROCH,2719
+Quay,State Senate,7,Republican,JOHN PATRICK WOODS,1925
+Quay,State Senate,8,Democratic,PETE CAMPOS,516
+Rio Arriba,House,3,Republican,MICHAEL H ROMERO,3093
+Rio Arriba,House,3,Democratic,BEN R LUJAN,11594
+Rio Arriba,President,,Green,JILL STEIN,188
+Rio Arriba,President,,Constitution,DARRELL CASTLE,17
+Rio Arriba,President,,Democratic,HILLARY RODHAM CLINTON,9592
+Rio Arriba,President,,Republican,DONALD J TRUMP,3599
+Rio Arriba,President,,,EVAN MCMULLIN,28
+Rio Arriba,President,,,"""ROCKY"" ROQUE DE LA FUENTE",13
+Rio Arriba,President,,,GLORIA LA RIVA,16
+Rio Arriba,President,,Libertarian,GARY JOHNSON,1425
+Rio Arriba,Secretary Of State,,Republican,NORA ESPINOZA,4047
+Rio Arriba,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,10173
+Rio Arriba,State House,40,Democratic,NICK L SALAZAR,3954
+Rio Arriba,State House,41,Democratic,DEBBIE A RODELLA,6253
+Rio Arriba,State House,43,Republican,SHARON STOVER,165
+Rio Arriba,State House,43,Democratic,STEPHANIE GARCIA RICHARD,108
+Rio Arriba,State House,65,Democratic,DERRICK J LENTE,583
+Rio Arriba,State Senate,5,Democratic,RICHARD C MARTINEZ,9475
+Rio Arriba,State Senate,6,Democratic,CARLOS R CISNEROS,1287
+Rio Arriba,State Senate,22,Democratic,BENNY SHENDO JR,939
+Roosevelt,House,2,,JACK A MCGRANN,0
+Roosevelt,House,2,Democratic,MERRIE LEE SOULES,446
+Roosevelt,House,2,Republican,STEVE PEARCE,2125
+Roosevelt,House,3,Democratic,BEN R LUJAN,1261
+Roosevelt,House,3,Republican,MICHAEL H ROMERO,1974
+Roosevelt,President,,Green,JILL STEIN,48
+Roosevelt,President,,Constitution,DARRELL CASTLE,11
+Roosevelt,President,,Democratic,HILLARY RODHAM CLINTON,1454
+Roosevelt,President,,Republican,DONALD J TRUMP,3884
+Roosevelt,President,,,EVAN MCMULLIN,58
+Roosevelt,President,,,"""ROCKY"" ROQUE DE LA FUENTE",5
+Roosevelt,President,,,GLORIA LA RIVA,8
+Roosevelt,President,,Libertarian,GARY JOHNSON,482
+Roosevelt,Secretary Of State,,Republican,NORA ESPINOZA,3821
+Roosevelt,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,1874
+Roosevelt,State House,63,Democratic,GEORGE DODGE JR,888
+Roosevelt,State House,66,Republican,BOB WOOLEY,2411
+Roosevelt,State House,67,Republican,DENNIS J ROCH,1292
+Roosevelt,State Senate,27,Republican,STUART INGLE,5115
+San Juan,House,3,Republican,MICHAEL H ROMERO,27083
+San Juan,House,3,Democratic,BEN R LUJAN,17993
+San Juan,President,,Green,JILL STEIN,352
+San Juan,President,,Democratic,HILLARY RODHAM CLINTON,12865
+San Juan,President,,,"""ROCKY"" ROQUE DE LA FUENTE",22
+San Juan,President,,,EVAN MCMULLIN,503
+San Juan,President,,Republican,DONALD J TRUMP,27946
+San Juan,President,,Libertarian,GARY JOHNSON,4200
+San Juan,President,,Constitution,DARRELL CASTLE,125
+San Juan,President,,,GLORIA LA RIVA,97
+San Juan,Secretary Of State,,Republican,NORA ESPINOZA,28263
+San Juan,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,16233
+San Juan,State House,1,Republican,RODNEY D MONTOYA,10717
+San Juan,State House,2,Republican,JAMES RJ STRICKLER,6083
+San Juan,State House,2,Democratic,KENNETH R ROBINSON,2369
+San Juan,State House,3,Republican,PAUL C BANDY,8299
+San Juan,State House,4,Democratic,GLOJEAN B TODACHEENE,4257
+San Juan,State House,4,Republican,SHARON E CLAHCHISCHILLIAGE,5056
+San Juan,State House,5,Democratic,DOREEN W JOHNSON,1945
+San Juan,State House,9,Democratic,"PATRICIA ""PATTY"" A LUNDSTROM",788
+San Juan,State House,65,Democratic,DERRICK J LENTE,584
+San Juan,State House,69,Democratic,HARRY GARCIA,270
+San Juan,State Senate,1,Republican,WILLIAM E SHARER,11170
+San Juan,State Senate,1,Democratic,REBECCA MORGAN,4834
+San Juan,State Senate,2,Republican,STEVEN P NEVILLE,15057
+San Juan,State Senate,3,Democratic,JOHN PINTO,7633
+San Juan,State Senate,4,Democratic,GEORGE K MUNOZ,737
+San Juan,State Senate,22,Democratic,BENNY SHENDO JR,1085
+San Miguel,House,3,Republican,MICHAEL H ROMERO,2124
+San Miguel,House,3,Democratic,BEN R LUJAN,8449
+San Miguel,President,,Green,JILL STEIN,160
+San Miguel,President,,Constitution,DARRELL CASTLE,25
+San Miguel,President,,Democratic,HILLARY RODHAM CLINTON,7285
+San Miguel,President,,Republican,DONALD J TRUMP,2313
+San Miguel,President,,,EVAN MCMULLIN,35
+San Miguel,President,,,"""ROCKY"" ROQUE DE LA FUENTE",8
+San Miguel,President,,,GLORIA LA RIVA,10
+San Miguel,President,,Libertarian,GARY JOHNSON,915
+San Miguel,Secretary Of State,,Republican,NORA ESPINOZA,2785
+San Miguel,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,7614
+San Miguel,State House,40,Democratic,NICK L SALAZAR,1817
+San Miguel,State House,63,Democratic,GEORGE DODGE JR,53
+San Miguel,State House,67,Republican,DENNIS J ROCH,90
+San Miguel,State House,70,Democratic,TOMAS E SALAZAR,6636
+San Miguel,State Senate,8,Democratic,PETE CAMPOS,5884
+San Miguel,State Senate,39,Republican,(TED) THEODORE BARELA,1306
+San Miguel,State Senate,39,Democratic,ELIZABETH LIZ STEFANICS,2072
+Sandoval,House,1,Republican,RICHARD GREGORY PRIEM,4197
+Sandoval,House,1,Democratic,MICHELLE LUJAN GRISHAM,6936
+Sandoval,House,3,Republican,MICHAEL H ROMERO,22617
+Sandoval,House,3,Democratic,BEN R LUJAN,26772
+Sandoval,President,,Green,JILL STEIN,627
+Sandoval,President,,Democratic,HILLARY RODHAM CLINTON,27707
+Sandoval,President,,,"""ROCKY"" ROQUE DE LA FUENTE",36
+Sandoval,President,,,EVAN MCMULLIN,553
+Sandoval,President,,Republican,DONALD J TRUMP,25905
+Sandoval,President,,Libertarian,GARY JOHNSON,6657
+Sandoval,President,,Constitution,DARRELL CASTLE,129
+Sandoval,President,,,GLORIA LA RIVA,76
+Sandoval,Secretary Of State,,Republican,NORA ESPINOZA,27943
+Sandoval,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,32023
+Sandoval,State House,22,Republican,JAMES E SMITH,1997
+Sandoval,State House,22,Democratic,JOHN M WALLACE,2469
+Sandoval,State House,23,Republican,PAUL A PACHECO,2986
+Sandoval,State House,23,Democratic,DAYMON B ELY,3151
+Sandoval,State House,43,Republican,SHARON STOVER,775
+Sandoval,State House,43,Democratic,STEPHANIE GARCIA RICHARD,1256
+Sandoval,State House,44,Republican,JANE E POWDRELL-CULBERT,12245
+Sandoval,State House,57,Republican,JASON CARL HARPER,6117
+Sandoval,State House,57,Democratic,DONNA I TILLMAN,5013
+Sandoval,State House,60,Republican,TIM D LEWIS,9824
+Sandoval,State House,65,Democratic,DERRICK J LENTE,5995
+Sandoval,State Senate,5,Democratic,RICHARD C MARTINEZ,0
+Sandoval,State Senate,9,Democratic,JOHN M SAPIEN,12211
+Sandoval,State Senate,9,Republican,DIEGO L ESPINOZA,12076
+Sandoval,State Senate,10,Democratic,DAVID J SIMON,1268
+Sandoval,State Senate,10,Republican,CANDACE RUTH GOULD,1495
+Sandoval,State Senate,19,Democratic,HAROLD W MURPHREE,208
+Sandoval,State Senate,19,Republican,JAMES P WHITE,353
+Sandoval,State Senate,22,Democratic,BENNY SHENDO JR,7436
+Sandoval,State Senate,40,Republican,CRAIG W BRANDT,12490
+Sandoval,State Senate,40,Democratic,LINDA SANCHEZ ALLISON,10099
+Santa Fe,House,1,Republican,RICHARD GREGORY PRIEM,1619
+Santa Fe,House,1,Democratic,MICHELLE LUJAN GRISHAM,1172
+Santa Fe,House,3,Republican,MICHAEL H ROMERO,13577
+Santa Fe,House,3,Democratic,BEN R LUJAN,53686
+Santa Fe,President,,Green,JILL STEIN,1452
+Santa Fe,President,,Democratic,HILLARY RODHAM CLINTON,50793
+Santa Fe,President,,,"""ROCKY"" ROQUE DE LA FUENTE",30
+Santa Fe,President,,,EVAN MCMULLIN,295
+Santa Fe,President,,Republican,DONALD J TRUMP,14332
+Santa Fe,President,,Libertarian,GARY JOHNSON,4362
+Santa Fe,President,,Constitution,DARRELL CASTLE,75
+Santa Fe,President,,,GLORIA LA RIVA,95
+Santa Fe,Secretary Of State,,Republican,NORA ESPINOZA,16102
+Santa Fe,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,52689
+Santa Fe,State House,22,Republican,JAMES E SMITH,1861
+Santa Fe,State House,22,Democratic,JOHN M WALLACE,889
+Santa Fe,State House,41,Democratic,DEBBIE A RODELLA,341
+Santa Fe,State House,43,Democratic,STEPHANIE GARCIA RICHARD,1066
+Santa Fe,State House,43,Republican,SHARON STOVER,243
+Santa Fe,State House,45,Democratic,JIM R TRUJILLO,9425
+Santa Fe,State House,46,Democratic,CARL TRUJILLO,11563
+Santa Fe,State House,47,Democratic,BRIAN F EGOLF JR,13740
+Santa Fe,State House,47,Republican,ROGER ANDREW GONZALES,3675
+Santa Fe,State House,48,Democratic,LINDA M TRUJILLO,10572
+Santa Fe,State House,50,Republican,JEREMY RYAN TREMKO,2134
+Santa Fe,State House,50,Democratic,MATTHEW MCQUEEN,5041
+Santa Fe,State House,70,Democratic,TOMAS E SALAZAR,103
+Santa Fe,State Senate,5,Democratic,RICHARD C MARTINEZ,1379
+Santa Fe,State Senate,6,Democratic,CARLOS R CISNEROS,2706
+Santa Fe,State Senate,19,Democratic,HAROLD W MURPHREE,1497
+Santa Fe,State Senate,19,Republican,JAMES P WHITE,3210
+Santa Fe,State Senate,24,Democratic,NANCY RODRIGUEZ,16155
+Santa Fe,State Senate,25,Democratic,PETER WIRTH,26958
+Santa Fe,State Senate,39,Democratic,ELIZABETH LIZ STEFANICS,5025
+Santa Fe,State Senate,39,Republican,(TED) THEODORE BARELA,1771
+Sierra,House,2,,JACK A MCGRANN,1
+Sierra,House,2,Democratic,MERRIE LEE SOULES,1640
+Sierra,House,2,Republican,STEVE PEARCE,3453
+Sierra,President,,Green,JILL STEIN,78
+Sierra,President,,Constitution,DARRELL CASTLE,12
+Sierra,President,,Democratic,HILLARY RODHAM CLINTON,1612
+Sierra,President,,Republican,DONALD J TRUMP,3010
+Sierra,President,,,EVAN MCMULLIN,20
+Sierra,President,,,"""ROCKY"" ROQUE DE LA FUENTE",1
+Sierra,President,,,GLORIA LA RIVA,6
+Sierra,President,,Libertarian,GARY JOHNSON,442
+Sierra,Secretary Of State,,Republican,NORA ESPINOZA,2825
+Sierra,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,2187
+Sierra,State House,38,Republican,REBECCA L DOW,2956
+Sierra,State House,38,Democratic,MARY E HOTVEDT,1500
+Sierra,State House,39,Democratic,RODOLPHO S MARTINEZ,237
+Sierra,State House,39,Republican,JOHN L ZIMMERMAN,348
+Sierra,State Senate,35,Democratic,JOHN ARTHUR SMITH,3488
+Socorro,House,2,,JACK A MCGRANN,1
+Socorro,House,2,Democratic,MERRIE LEE SOULES,2728
+Socorro,House,2,Republican,STEVE PEARCE,3952
+Socorro,President,,Green,JILL STEIN,60
+Socorro,President,,Constitution,DARRELL CASTLE,15
+Socorro,President,,Democratic,HILLARY RODHAM CLINTON,3313
+Socorro,President,,Republican,DONALD J TRUMP,2616
+Socorro,President,,,EVAN MCMULLIN,39
+Socorro,President,,,"""ROCKY"" ROQUE DE LA FUENTE",3
+Socorro,President,,,GLORIA LA RIVA,20
+Socorro,President,,Libertarian,GARY JOHNSON,802
+Socorro,Secretary Of State,,Republican,NORA ESPINOZA,2909
+Socorro,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,3657
+Socorro,State House,49,Republican,DON TRIPP,4839
+Socorro,State House,69,Democratic,HARRY GARCIA,398
+Socorro,State Senate,28,Democratic,HOWIE C MORALES,4187
+Socorro,State Senate,30,Democratic,CLEMENTE SANCHEZ,532
+Taos,House,3,Republican,MICHAEL H ROMERO,2903
+Taos,House,3,Democratic,BEN R LUJAN,12123
+Taos,President,,Green,JILL STEIN,617
+Taos,President,,Constitution,DARRELL CASTLE,6
+Taos,President,,Democratic,HILLARY RODHAM CLINTON,10668
+Taos,President,,Republican,DONALD J TRUMP,2727
+Taos,President,,,EVAN MCMULLIN,31
+Taos,President,,,"""ROCKY"" ROQUE DE LA FUENTE",5
+Taos,President,,,GLORIA LA RIVA,27
+Taos,President,,Libertarian,GARY JOHNSON,1179
+Taos,Secretary Of State,,Republican,NORA ESPINOZA,3184
+Taos,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,11520
+Taos,State House,41,Democratic,DEBBIE A RODELLA,1494
+Taos,State House,42,Democratic,"ROBERTO ""BOBBY"" JESSE GONZALES",10654
+Taos,State Senate,6,Democratic,CARLOS R CISNEROS,11464
+Taos,State Senate,8,Democratic,PETE CAMPOS,749
+Torrance,House,1,Democratic,MICHELLE LUJAN GRISHAM,3134
+Torrance,House,1,Republican,RICHARD GREGORY PRIEM,3114
+Torrance,President,,Green,JILL STEIN,66
+Torrance,President,,Constitution,DARRELL CASTLE,16
+Torrance,President,,Democratic,HILLARY RODHAM CLINTON,1785
+Torrance,President,,Republican,DONALD J TRUMP,3714
+Torrance,President,,,EVAN MCMULLIN,36
+Torrance,President,,,"""ROCKY"" ROQUE DE LA FUENTE",6
+Torrance,President,,,GLORIA LA RIVA,9
+Torrance,President,,Libertarian,GARY JOHNSON,692
+Torrance,Secretary Of State,,Republican,NORA ESPINOZA,3595
+Torrance,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,2558
+Torrance,State House,50,Democratic,MATTHEW MCQUEEN,1686
+Torrance,State House,50,Republican,JEREMY RYAN TREMKO,2194
+Torrance,State House,70,Democratic,TOMAS E SALAZAR,1386
+Torrance,State Senate,19,Republican,JAMES P WHITE,2200
+Torrance,State Senate,19,Democratic,HAROLD W MURPHREE,1030
+Torrance,State Senate,39,Republican,(TED) THEODORE BARELA,2174
+Torrance,State Senate,39,Democratic,ELIZABETH LIZ STEFANICS,812
+Union,House,3,Republican,MICHAEL H ROMERO,1155
+Union,House,3,Democratic,BEN R LUJAN,524
+Union,President,,Green,JILL STEIN,13
+Union,President,,Constitution,DARRELL CASTLE,7
+Union,President,,Democratic,HILLARY RODHAM CLINTON,320
+Union,President,,Republican,DONALD J TRUMP,1216
+Union,President,,,EVAN MCMULLIN,9
+Union,President,,,"""ROCKY"" ROQUE DE LA FUENTE",2
+Union,President,,,GLORIA LA RIVA,1
+Union,President,,Libertarian,GARY JOHNSON,134
+Union,Secretary Of State,,Republican,NORA ESPINOZA,1109
+Union,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,521
+Union,State House,67,Republican,DENNIS J ROCH,1433
+Union,State Senate,7,Republican,JOHN PATRICK WOODS,1421
+Valencia,House,1,Republican,RICHARD GREGORY PRIEM,1083
+Valencia,House,1,Democratic,MICHELLE LUJAN GRISHAM,1733
+Valencia,House,2,Republican,STEVE PEARCE,15205
+Valencia,House,2,,JACK A MCGRANN,0
+Valencia,House,2,Democratic,MERRIE LEE SOULES,9045
+Valencia,President,,Green,JILL STEIN,219
+Valencia,President,,Democratic,HILLARY RODHAM CLINTON,10841
+Valencia,President,,,"""ROCKY"" ROQUE DE LA FUENTE",19
+Valencia,President,,,EVAN MCMULLIN,161
+Valencia,President,,Republican,DONALD J TRUMP,13215
+Valencia,President,,Libertarian,GARY JOHNSON,3046
+Valencia,President,,Constitution,DARRELL CASTLE,63
+Valencia,President,,,GLORIA LA RIVA,28
+Valencia,Secretary Of State,,Republican,NORA ESPINOZA,13371
+Valencia,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,13524
+Valencia,State House,7,Democratic,ARTURO FIERRO,3964
+Valencia,State House,7,Republican,KELLY K FAJARDO,5149
+Valencia,State House,8,Democratic,JIM D DANNER,4493
+Valencia,State House,8,Republican,ALONZO BALDONADO,7251
+Valencia,State House,49,Republican,DON TRIPP,2362
+Valencia,State House,50,Republican,JEREMY RYAN TREMKO,1419
+Valencia,State House,50,Democratic,MATTHEW MCQUEEN,1362
+Valencia,State House,69,Democratic,HARRY GARCIA,220
+Valencia,State Senate,29,Democratic,MICHAEL S SANCHEZ,6942
+Valencia,State Senate,29,Republican,GREGORY A BACA,8675
+Valencia,State Senate,30,Democratic,CLEMENTE SANCHEZ,6459
+Valencia,State Senate,39,Republican,(TED) THEODORE BARELA,906
+Valencia,State Senate,39,Democratic,ELIZABETH LIZ STEFANICS,698
