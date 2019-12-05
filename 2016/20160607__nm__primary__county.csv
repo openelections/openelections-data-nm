@@ -1,11 +1,11 @@
 county,office,district,party,candidate,votes
-Bernalillo,House,1,Democratic,MICHELLE LUJAN GRISHAM,64161
-Bernalillo,House,1,Republican,RICHARD GREGORY PRIEM,24746
-Bernalillo,House,2,Republican,STEVE PEARCE,32
-Bernalillo,House,2,Democratic,MERRIE LEE SOULES,157
-Bernalillo,House,3,Republican,MICHAEL H ROMERO,879
-Bernalillo,House,3,Democratic,BEN R LUJAN,2023
-Bernalillo,House,3,Republican,MICHAEL GLENN LUCERO,441
+Bernalillo,U.S. House,1,Democratic,MICHELLE LUJAN GRISHAM,64161
+Bernalillo,U.S. House,1,Republican,RICHARD GREGORY PRIEM,24746
+Bernalillo,U.S. House,2,Republican,STEVE PEARCE,32
+Bernalillo,U.S. House,2,Democratic,MERRIE LEE SOULES,157
+Bernalillo,U.S. House,3,Republican,MICHAEL H ROMERO,879
+Bernalillo,U.S. House,3,Democratic,BEN R LUJAN,2023
+Bernalillo,U.S. House,3,Republican,MICHAEL GLENN LUCERO,441
 Bernalillo,President,,Republican,TED CRUZ,3998
 Bernalillo,President,,Republican,JOHN R KASICH,3250
 Bernalillo,President,,Republican,CARLY FIORINA,611
@@ -96,8 +96,8 @@ Bernalillo,State Senate,39,Democratic,HUGH H LEY,3
 Bernalillo,State Senate,39,Democratic,AMBROSE M CASTELLANO,3
 Bernalillo,State Senate,39,Democratic,ELIZABETH LIZ STEFANICS,5
 Bernalillo,State Senate,39,Democratic,MIKE DALE ANAYA,24
-Catron,House,2,Democratic,MERRIE LEE SOULES,247
-Catron,House,2,Republican,STEVE PEARCE,581
+Catron,U.S. House,2,Democratic,MERRIE LEE SOULES,247
+Catron,U.S. House,2,Republican,STEVE PEARCE,581
 Catron,President,,Democratic,BERNARD SANDERS,183
 Catron,President,,Democratic,HILLARY RODHAM CLINTON,116
 Catron,President,,Republican,CARLY FIORINA,6
@@ -111,8 +111,8 @@ Catron,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,246
 Catron,State House,49,Democratic,CONRAD G GUAJARDO,228
 Catron,State House,49,Republican,DON TRIPP,575
 Catron,State Senate,28,Democratic,HOWIE C MORALES,269
-Chaves,House,2,Democratic,MERRIE LEE SOULES,1806
-Chaves,House,2,Republican,STEVE PEARCE,4432
+Chaves,U.S. House,2,Democratic,MERRIE LEE SOULES,1806
+Chaves,U.S. House,2,Republican,STEVE PEARCE,4432
 Chaves,President,,Democratic,BERNARD SANDERS,952
 Chaves,President,,Democratic,HILLARY RODHAM CLINTON,1238
 Chaves,President,,Republican,CARLY FIORINA,30
@@ -132,8 +132,8 @@ Chaves,State Senate,27,Republican,STUART INGLE,1546
 Chaves,State Senate,32,Republican,CLIFF R PIRTLE,1542
 Chaves,State Senate,33,Republican,WILLIAM F BURT,943
 Chaves,State Senate,42,Republican,GAY G KERNAN,1
-Cibola,House,2,Democratic,MERRIE LEE SOULES,2309
-Cibola,House,2,Republican,STEVE PEARCE,887
+Cibola,U.S. House,2,Democratic,MERRIE LEE SOULES,2309
+Cibola,U.S. House,2,Republican,STEVE PEARCE,887
 Cibola,President,,Democratic,BERNARD SANDERS,1500
 Cibola,President,,Democratic,HILLARY RODHAM CLINTON,1593
 Cibola,President,,Republican,CARLY FIORINA,12
@@ -153,9 +153,9 @@ Cibola,State Senate,4,Democratic,GEORGE K MUNOZ,589
 Cibola,State Senate,4,Democratic,FELISHA ADAMS,144
 Cibola,State Senate,4,Democratic,JORDON L JOHNSON,196
 Cibola,State Senate,30,Democratic,CLEMENTE SANCHEZ,1873
-Colfax,House,3,Republican,MICHAEL H ROMERO,411
-Colfax,House,3,Republican,MICHAEL GLENN LUCERO,302
-Colfax,House,3,Democratic,BEN R LUJAN,1536
+Colfax,U.S. House,3,Republican,MICHAEL H ROMERO,411
+Colfax,U.S. House,3,Republican,MICHAEL GLENN LUCERO,302
+Colfax,U.S. House,3,Democratic,BEN R LUJAN,1536
 Colfax,President,,Democratic,BERNARD SANDERS,743
 Colfax,President,,Democratic,HILLARY RODHAM CLINTON,949
 Colfax,President,,Republican,CARLY FIORINA,12
@@ -170,9 +170,9 @@ Colfax,State House,40,Democratic,NICK L SALAZAR,350
 Colfax,State House,40,Democratic,BARNEY R TRUJILLO,248
 Colfax,State House,67,Republican,DENNIS J ROCH,341
 Colfax,State Senate,8,Democratic,PETE CAMPOS,1427
-Curry,House,3,Republican,MICHAEL H ROMERO,1914
-Curry,House,3,Republican,MICHAEL GLENN LUCERO,852
-Curry,House,3,Democratic,BEN R LUJAN,1320
+Curry,U.S. House,3,Republican,MICHAEL H ROMERO,1914
+Curry,U.S. House,3,Republican,MICHAEL GLENN LUCERO,852
+Curry,U.S. House,3,Democratic,BEN R LUJAN,1320
 Curry,President,,Democratic,BERNARD SANDERS,769
 Curry,President,,Democratic,HILLARY RODHAM CLINTON,677
 Curry,President,,Republican,CARLY FIORINA,24
@@ -188,8 +188,8 @@ Curry,State House,64,Republican,RANDAL S CROWDER,2096
 Curry,State House,67,Republican,DENNIS J ROCH,272
 Curry,State Senate,7,Republican,JOHN PATRICK WOODS,2609
 Curry,State Senate,27,Republican,STUART INGLE,205
-De Baca,House,2,Democratic,MERRIE LEE SOULES,136
-De Baca,House,2,Republican,STEVE PEARCE,178
+De Baca,U.S. House,2,Democratic,MERRIE LEE SOULES,136
+De Baca,U.S. House,2,Republican,STEVE PEARCE,178
 De Baca,President,,Democratic,BERNARD SANDERS,114
 De Baca,President,,Democratic,HILLARY RODHAM CLINTON,96
 De Baca,President,,Republican,CARLY FIORINA,0
@@ -202,8 +202,8 @@ De Baca,Secretary Of State,,Republican,NORA ESPINOZA,142
 De Baca,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,142
 De Baca,State House,63,Democratic,GEORGE DODGE JR,212
 De Baca,State Senate,27,Republican,STUART INGLE,167
-Dona Ana,House,2,Republican,STEVE PEARCE,6728
-Dona Ana,House,2,Democratic,MERRIE LEE SOULES,13642
+Dona Ana,U.S. House,2,Republican,STEVE PEARCE,6728
+Dona Ana,U.S. House,2,Democratic,MERRIE LEE SOULES,13642
 Dona Ana,President,,Democratic,HILLARY RODHAM CLINTON,9215
 Dona Ana,President,,Republican,TED CRUZ,1034
 Dona Ana,President,,Republican,DONALD J TRUMP,4936
@@ -242,8 +242,8 @@ Dona Ana,State Senate,37,Republican,CECELIA H LEVATINO,1957
 Dona Ana,State Senate,37,Democratic,WILLIAM P SOULES,3678
 Dona Ana,State Senate,38,Republican,CHARLES R WENDLER,963
 Dona Ana,State Senate,38,Democratic,MARY KAY PAPEN,3198
-Eddy,House,2,Democratic,MERRIE LEE SOULES,2203
-Eddy,House,2,Republican,STEVE PEARCE,4034
+Eddy,U.S. House,2,Democratic,MERRIE LEE SOULES,2203
+Eddy,U.S. House,2,Republican,STEVE PEARCE,4034
 Eddy,President,,Democratic,BERNARD SANDERS,1341
 Eddy,President,,Democratic,HILLARY RODHAM CLINTON,1571
 Eddy,President,,Republican,CARLY FIORINA,18
@@ -260,8 +260,8 @@ Eddy,State Senate,32,Republican,CLIFF R PIRTLE,262
 Eddy,State Senate,34,Republican,RON GRIGGS,805
 Eddy,State Senate,41,Republican,CARROLL H LEAVELL,468
 Eddy,State Senate,42,Republican,GAY G KERNAN,1693
-Grant,House,2,Republican,STEVE PEARCE,1562
-Grant,House,2,Democratic,MERRIE LEE SOULES,3627
+Grant,U.S. House,2,Republican,STEVE PEARCE,1562
+Grant,U.S. House,2,Democratic,MERRIE LEE SOULES,3627
 Grant,President,,Democratic,HILLARY RODHAM CLINTON,2274
 Grant,President,,Republican,TED CRUZ,207
 Grant,President,,Republican,DONALD J TRUMP,1254
@@ -283,8 +283,8 @@ Grant,State House,38,Republican,REBECCA L DOW,929
 Grant,State House,39,Republican,JOHN L ZIMMERMAN,319
 Grant,State House,39,Democratic,RODOLPHO S MARTINEZ,1355
 Grant,State Senate,28,Democratic,HOWIE C MORALES,4219
-Guadalupe,House,2,Democratic,MERRIE LEE SOULES,458
-Guadalupe,House,2,Republican,STEVE PEARCE,101
+Guadalupe,U.S. House,2,Democratic,MERRIE LEE SOULES,458
+Guadalupe,U.S. House,2,Republican,STEVE PEARCE,101
 Guadalupe,President,,Democratic,BERNARD SANDERS,332
 Guadalupe,President,,Democratic,HILLARY RODHAM CLINTON,399
 Guadalupe,President,,Republican,CARLY FIORINA,1
@@ -297,9 +297,9 @@ Guadalupe,Secretary Of State,,Republican,NORA ESPINOZA,93
 Guadalupe,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,498
 Guadalupe,State House,63,Democratic,GEORGE DODGE JR,573
 Guadalupe,State Senate,8,Democratic,PETE CAMPOS,585
-Harding,House,3,Republican,MICHAEL H ROMERO,70
-Harding,House,3,Republican,MICHAEL GLENN LUCERO,63
-Harding,House,3,Democratic,BEN R LUJAN,103
+Harding,U.S. House,3,Republican,MICHAEL H ROMERO,70
+Harding,U.S. House,3,Republican,MICHAEL GLENN LUCERO,63
+Harding,U.S. House,3,Democratic,BEN R LUJAN,103
 Harding,President,,Democratic,BERNARD SANDERS,46
 Harding,President,,Democratic,HILLARY RODHAM CLINTON,75
 Harding,President,,Republican,CARLY FIORINA,1
@@ -312,8 +312,8 @@ Harding,Secretary Of State,,Republican,NORA ESPINOZA,131
 Harding,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,93
 Harding,State House,67,Republican,DENNIS J ROCH,143
 Harding,State Senate,8,Democratic,PETE CAMPOS,99
-Hidalgo,House,2,Democratic,MERRIE LEE SOULES,580
-Hidalgo,House,2,Republican,STEVE PEARCE,341
+Hidalgo,U.S. House,2,Democratic,MERRIE LEE SOULES,580
+Hidalgo,U.S. House,2,Republican,STEVE PEARCE,341
 Hidalgo,President,,Democratic,BERNARD SANDERS,323
 Hidalgo,President,,Democratic,HILLARY RODHAM CLINTON,517
 Hidalgo,President,,Republican,CARLY FIORINA,4
@@ -333,8 +333,8 @@ Hidalgo,State House,38,Democratic,KAREN C WHITLOCK,23
 Hidalgo,State House,38,Republican,REBECCA L DOW,49
 Hidalgo,State House,38,Democratic,MARY E HOTVEDT,8
 Hidalgo,State Senate,35,Democratic,JOHN ARTHUR SMITH,686
-Lea,House,2,Democratic,MERRIE LEE SOULES,1010
-Lea,House,2,Republican,STEVE PEARCE,3714
+Lea,U.S. House,2,Democratic,MERRIE LEE SOULES,1010
+Lea,U.S. House,2,Republican,STEVE PEARCE,3714
 Lea,President,,Democratic,BERNARD SANDERS,651
 Lea,President,,Democratic,HILLARY RODHAM CLINTON,707
 Lea,President,,Republican,CARLY FIORINA,23
@@ -351,8 +351,8 @@ Lea,State House,66,Republican,BOB WOOLEY,486
 Lea,State Senate,27,Republican,STUART INGLE,156
 Lea,State Senate,41,Republican,CARROLL H LEAVELL,1242
 Lea,State Senate,42,Republican,GAY G KERNAN,2127
-Lincoln,House,2,Democratic,MERRIE LEE SOULES,893
-Lincoln,House,2,Republican,STEVE PEARCE,2625
+Lincoln,U.S. House,2,Democratic,MERRIE LEE SOULES,893
+Lincoln,U.S. House,2,Republican,STEVE PEARCE,2625
 Lincoln,President,,Democratic,BERNARD SANDERS,527
 Lincoln,President,,Democratic,HILLARY RODHAM CLINTON,517
 Lincoln,President,,Republican,CARLY FIORINA,31
@@ -372,9 +372,9 @@ Lincoln,State Senate,39,Democratic,MIKE DALE ANAYA,73
 Lincoln,State Senate,39,Republican,(TED) THEODORE BARELA,1085
 Lincoln,State Senate,39,Democratic,ELIZABETH LIZ STEFANICS,227
 Lincoln,State Senate,39,Democratic,AMBROSE M CASTELLANO,34
-Los Alamos,House,3,Republican,MICHAEL H ROMERO,711
-Los Alamos,House,3,Republican,MICHAEL GLENN LUCERO,582
-Los Alamos,House,3,Democratic,BEN R LUJAN,2419
+Los Alamos,U.S. House,3,Republican,MICHAEL H ROMERO,711
+Los Alamos,U.S. House,3,Republican,MICHAEL GLENN LUCERO,582
+Los Alamos,U.S. House,3,Democratic,BEN R LUJAN,2419
 Los Alamos,President,,Democratic,BERNARD SANDERS,1412
 Los Alamos,President,,Democratic,HILLARY RODHAM CLINTON,1426
 Los Alamos,President,,Republican,CARLY FIORINA,48
@@ -389,8 +389,8 @@ Los Alamos,State House,43,Republican,SHARON STOVER,1390
 Los Alamos,State House,43,Democratic,STEPHANIE GARCIA RICHARD,2439
 Los Alamos,State Senate,5,Democratic,RICHARD C MARTINEZ,1433
 Los Alamos,State Senate,6,Democratic,CARLOS R CISNEROS,689
-Luna,House,2,Democratic,MERRIE LEE SOULES,1338
-Luna,House,2,Republican,STEVE PEARCE,1294
+Luna,U.S. House,2,Democratic,MERRIE LEE SOULES,1338
+Luna,U.S. House,2,Republican,STEVE PEARCE,1294
 Luna,President,,Democratic,BERNARD SANDERS,714
 Luna,President,,Democratic,HILLARY RODHAM CLINTON,918
 Luna,President,,Republican,CARLY FIORINA,17
@@ -406,11 +406,11 @@ Luna,State House,32,Democratic,CANDIE G SWEETSER,1026
 Luna,State House,32,Republican,J SCOTT CHANDLER,745
 Luna,State House,32,Democratic,FREDERICK H SHERMAN,644
 Luna,State Senate,35,Democratic,JOHN ARTHUR SMITH,1493
-McKinley,House,2,Republican,STEVE PEARCE,98
-McKinley,House,2,Democratic,MERRIE LEE SOULES,385
-McKinley,House,3,Republican,MICHAEL H ROMERO,742
-McKinley,House,3,Democratic,BEN R LUJAN,6650
-McKinley,House,3,Republican,MICHAEL GLENN LUCERO,454
+McKinley,U.S. House,2,Republican,STEVE PEARCE,98
+McKinley,U.S. House,2,Democratic,MERRIE LEE SOULES,385
+McKinley,U.S. House,3,Republican,MICHAEL H ROMERO,742
+McKinley,U.S. House,3,Democratic,BEN R LUJAN,6650
+McKinley,U.S. House,3,Republican,MICHAEL GLENN LUCERO,454
 McKinley,President,,Democratic,HILLARY RODHAM CLINTON,4865
 McKinley,President,,Republican,TED CRUZ,300
 McKinley,President,,Republican,DONALD J TRUMP,771
@@ -436,9 +436,9 @@ McKinley,State Senate,4,Democratic,GEORGE K MUNOZ,2753
 McKinley,State Senate,22,Democratic,BENNY SHENDO JR,609
 McKinley,State Senate,22,Democratic,SANDRA D JEFF,832
 McKinley,State Senate,30,Democratic,CLEMENTE SANCHEZ,130
-Mora,House,3,Republican,MICHAEL H ROMERO,142
-Mora,House,3,Republican,MICHAEL GLENN LUCERO,55
-Mora,House,3,Democratic,BEN R LUJAN,1295
+Mora,U.S. House,3,Republican,MICHAEL H ROMERO,142
+Mora,U.S. House,3,Republican,MICHAEL GLENN LUCERO,55
+Mora,U.S. House,3,Democratic,BEN R LUJAN,1295
 Mora,President,,Democratic,BERNARD SANDERS,603
 Mora,President,,Democratic,HILLARY RODHAM CLINTON,984
 Mora,President,,Republican,CARLY FIORINA,4
@@ -452,8 +452,8 @@ Mora,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,1101
 Mora,State House,40,Democratic,NICK L SALAZAR,726
 Mora,State House,40,Democratic,BARNEY R TRUJILLO,811
 Mora,State Senate,8,Democratic,PETE CAMPOS,1155
-Otero,House,2,Democratic,MERRIE LEE SOULES,2077
-Otero,House,2,Republican,STEVE PEARCE,4163
+Otero,U.S. House,2,Democratic,MERRIE LEE SOULES,2077
+Otero,U.S. House,2,Republican,STEVE PEARCE,4163
 Otero,President,,Democratic,BERNARD SANDERS,1210
 Otero,President,,Democratic,HILLARY RODHAM CLINTON,1341
 Otero,President,,Republican,CARLY FIORINA,56
@@ -473,9 +473,9 @@ Otero,State House,56,Republican,ZACH J COOK,968
 Otero,State Senate,32,Republican,CLIFF R PIRTLE,11
 Otero,State Senate,33,Republican,WILLIAM F BURT,1992
 Otero,State Senate,34,Republican,RON GRIGGS,1864
-Quay,House,3,Republican,MICHAEL H ROMERO,458
-Quay,House,3,Republican,MICHAEL GLENN LUCERO,303
-Quay,House,3,Democratic,BEN R LUJAN,839
+Quay,U.S. House,3,Republican,MICHAEL H ROMERO,458
+Quay,U.S. House,3,Republican,MICHAEL GLENN LUCERO,303
+Quay,U.S. House,3,Democratic,BEN R LUJAN,839
 Quay,President,,Democratic,BERNARD SANDERS,445
 Quay,President,,Democratic,HILLARY RODHAM CLINTON,474
 Quay,President,,Republican,CARLY FIORINA,7
@@ -489,9 +489,9 @@ Quay,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,736
 Quay,State House,67,Republican,DENNIS J ROCH,781
 Quay,State Senate,7,Republican,JOHN PATRICK WOODS,555
 Quay,State Senate,8,Democratic,PETE CAMPOS,161
-Rio Arriba,House,3,Republican,MICHAEL H ROMERO,424
-Rio Arriba,House,3,Democratic,BEN R LUJAN,7031
-Rio Arriba,House,3,Republican,MICHAEL GLENN LUCERO,275
+Rio Arriba,U.S. House,3,Republican,MICHAEL H ROMERO,424
+Rio Arriba,U.S. House,3,Democratic,BEN R LUJAN,7031
+Rio Arriba,U.S. House,3,Republican,MICHAEL GLENN LUCERO,275
 Rio Arriba,President,,Democratic,HILLARY RODHAM CLINTON,5043
 Rio Arriba,President,,Republican,TED CRUZ,134
 Rio Arriba,President,,Republican,DONALD J TRUMP,473
@@ -513,11 +513,11 @@ Rio Arriba,State Senate,5,Democratic,RICHARD C MARTINEZ,5374
 Rio Arriba,State Senate,6,Democratic,CARLOS R CISNEROS,748
 Rio Arriba,State Senate,22,Democratic,BENNY SHENDO JR,400
 Rio Arriba,State Senate,22,Democratic,SANDRA D JEFF,78
-Roosevelt,House,2,Democratic,MERRIE LEE SOULES,198
-Roosevelt,House,2,Republican,STEVE PEARCE,625
-Roosevelt,House,3,Democratic,BEN R LUJAN,365
-Roosevelt,House,3,Republican,MICHAEL H ROMERO,252
-Roosevelt,House,3,Republican,MICHAEL GLENN LUCERO,223
+Roosevelt,U.S. House,2,Democratic,MERRIE LEE SOULES,198
+Roosevelt,U.S. House,2,Republican,STEVE PEARCE,625
+Roosevelt,U.S. House,3,Democratic,BEN R LUJAN,365
+Roosevelt,U.S. House,3,Republican,MICHAEL H ROMERO,252
+Roosevelt,U.S. House,3,Republican,MICHAEL GLENN LUCERO,223
 Roosevelt,President,,Democratic,BERNARD SANDERS,392
 Roosevelt,President,,Democratic,HILLARY RODHAM CLINTON,282
 Roosevelt,President,,Republican,DONALD J TRUMP,966
@@ -532,9 +532,9 @@ Roosevelt,State House,63,Democratic,GEORGE DODGE JR,151
 Roosevelt,State House,66,Republican,BOB WOOLEY,511
 Roosevelt,State House,67,Republican,DENNIS J ROCH,337
 Roosevelt,State Senate,27,Republican,STUART INGLE,1170
-San Juan,House,3,Republican,MICHAEL H ROMERO,4436
-San Juan,House,3,Democratic,BEN R LUJAN,5274
-San Juan,House,3,Republican,MICHAEL GLENN LUCERO,2700
+San Juan,U.S. House,3,Republican,MICHAEL H ROMERO,4436
+San Juan,U.S. House,3,Democratic,BEN R LUJAN,5274
+San Juan,U.S. House,3,Republican,MICHAEL GLENN LUCERO,2700
 San Juan,President,,Democratic,HILLARY RODHAM CLINTON,3127
 San Juan,President,,Republican,TED CRUZ,1228
 San Juan,President,,Republican,DONALD J TRUMP,5776
@@ -570,9 +570,9 @@ San Juan,State Senate,4,Democratic,JORDON L JOHNSON,81
 San Juan,State Senate,4,Democratic,GEORGE K MUNOZ,133
 San Juan,State Senate,22,Democratic,SANDRA D JEFF,126
 San Juan,State Senate,22,Democratic,BENNY SHENDO JR,221
-San Miguel,House,3,Republican,MICHAEL H ROMERO,326
-San Miguel,House,3,Democratic,BEN R LUJAN,5135
-San Miguel,House,3,Republican,MICHAEL GLENN LUCERO,222
+San Miguel,U.S. House,3,Republican,MICHAEL H ROMERO,326
+San Miguel,U.S. House,3,Democratic,BEN R LUJAN,5135
+San Miguel,U.S. House,3,Republican,MICHAEL GLENN LUCERO,222
 San Miguel,President,,Republican,TED CRUZ,127
 San Miguel,President,,Republican,DONALD J TRUMP,349
 San Miguel,President,,Republican,JEB BUSH,24
@@ -594,11 +594,11 @@ San Miguel,State Senate,39,Democratic,ELIZABETH LIZ STEFANICS,322
 San Miguel,State Senate,39,Democratic,HUGH H LEY,566
 San Miguel,State Senate,39,Democratic,AMBROSE M CASTELLANO,719
 San Miguel,State Senate,39,Democratic,MIKE DALE ANAYA,305
-Sandoval,House,1,Republican,RICHARD GREGORY PRIEM,1285
-Sandoval,House,1,Democratic,MICHELLE LUJAN GRISHAM,3082
-Sandoval,House,3,Republican,MICHAEL H ROMERO,3389
-Sandoval,House,3,Democratic,BEN R LUJAN,9793
-Sandoval,House,3,Republican,MICHAEL GLENN LUCERO,2330
+Sandoval,U.S. House,1,Republican,RICHARD GREGORY PRIEM,1285
+Sandoval,U.S. House,1,Democratic,MICHELLE LUJAN GRISHAM,3082
+Sandoval,U.S. House,3,Republican,MICHAEL H ROMERO,3389
+Sandoval,U.S. House,3,Democratic,BEN R LUJAN,9793
+Sandoval,U.S. House,3,Republican,MICHAEL GLENN LUCERO,2330
 Sandoval,President,,Democratic,HILLARY RODHAM CLINTON,7490
 Sandoval,President,,Republican,TED CRUZ,1066
 Sandoval,President,,Republican,DONALD J TRUMP,5690
@@ -636,11 +636,11 @@ Sandoval,State Senate,22,Democratic,BENNY SHENDO JR,2260
 Sandoval,State Senate,22,Democratic,SANDRA D JEFF,963
 Sandoval,State Senate,40,Republican,CRAIG W BRANDT,2696
 Sandoval,State Senate,40,Democratic,LINDA SANCHEZ ALLISON,3446
-Santa Fe,House,1,Republican,RICHARD GREGORY PRIEM,488
-Santa Fe,House,1,Democratic,MICHELLE LUJAN GRISHAM,336
-Santa Fe,House,3,Republican,MICHAEL H ROMERO,2106
-Santa Fe,House,3,Democratic,BEN R LUJAN,26350
-Santa Fe,House,3,Republican,MICHAEL GLENN LUCERO,1294
+Santa Fe,U.S. House,1,Republican,RICHARD GREGORY PRIEM,488
+Santa Fe,U.S. House,1,Democratic,MICHELLE LUJAN GRISHAM,336
+Santa Fe,U.S. House,3,Republican,MICHAEL H ROMERO,2106
+Santa Fe,U.S. House,3,Democratic,BEN R LUJAN,26350
+Santa Fe,U.S. House,3,Republican,MICHAEL GLENN LUCERO,1294
 Santa Fe,President,,Democratic,HILLARY RODHAM CLINTON,16131
 Santa Fe,President,,Republican,TED CRUZ,630
 Santa Fe,President,,Republican,DONALD J TRUMP,2868
@@ -680,8 +680,8 @@ Santa Fe,State Senate,39,Democratic,ELIZABETH LIZ STEFANICS,1484
 Santa Fe,State Senate,39,Republican,(TED) THEODORE BARELA,329
 Santa Fe,State Senate,39,Democratic,AMBROSE M CASTELLANO,253
 Santa Fe,State Senate,39,Democratic,MIKE DALE ANAYA,710
-Sierra,House,2,Democratic,MERRIE LEE SOULES,737
-Sierra,House,2,Republican,STEVE PEARCE,1121
+Sierra,U.S. House,2,Democratic,MERRIE LEE SOULES,737
+Sierra,U.S. House,2,Republican,STEVE PEARCE,1121
 Sierra,President,,Democratic,BERNARD SANDERS,532
 Sierra,President,,Democratic,HILLARY RODHAM CLINTON,401
 Sierra,President,,Republican,CARLY FIORINA,5
@@ -699,8 +699,8 @@ Sierra,State House,38,Democratic,MARY E HOTVEDT,226
 Sierra,State House,39,Republican,JOHN L ZIMMERMAN,97
 Sierra,State House,39,Democratic,RODOLPHO S MARTINEZ,91
 Sierra,State Senate,35,Democratic,JOHN ARTHUR SMITH,766
-Socorro,House,2,Democratic,MERRIE LEE SOULES,1493
-Socorro,House,2,Republican,STEVE PEARCE,1089
+Socorro,U.S. House,2,Democratic,MERRIE LEE SOULES,1493
+Socorro,U.S. House,2,Republican,STEVE PEARCE,1089
 Socorro,President,,Democratic,BERNARD SANDERS,1027
 Socorro,President,,Democratic,HILLARY RODHAM CLINTON,1055
 Socorro,President,,Republican,CARLY FIORINA,15
@@ -719,9 +719,9 @@ Socorro,State House,69,Democratic,TERRY L FLETCHER,23
 Socorro,State House,69,Democratic,BENNIE SHELLY,98
 Socorro,State Senate,28,Democratic,HOWIE C MORALES,1486
 Socorro,State Senate,30,Democratic,CLEMENTE SANCHEZ,204
-Taos,House,3,Republican,MICHAEL H ROMERO,551
-Taos,House,3,Republican,MICHAEL GLENN LUCERO,173
-Taos,House,3,Democratic,BEN R LUJAN,6356
+Taos,U.S. House,3,Republican,MICHAEL H ROMERO,551
+Taos,U.S. House,3,Republican,MICHAEL GLENN LUCERO,173
+Taos,U.S. House,3,Democratic,BEN R LUJAN,6356
 Taos,President,,Democratic,BERNARD SANDERS,4360
 Taos,President,,Democratic,HILLARY RODHAM CLINTON,3303
 Taos,President,,Republican,CARLY FIORINA,17
@@ -736,8 +736,8 @@ Taos,State House,41,Democratic,DEBBIE A RODELLA,688
 Taos,State House,42,Democratic,"ROBERTO ""BOBBY"" JESSE GONZALES",5024
 Taos,State Senate,6,Democratic,CARLOS R CISNEROS,5365
 Taos,State Senate,8,Democratic,PETE CAMPOS,370
-Torrance,House,1,Republican,RICHARD GREGORY PRIEM,1169
-Torrance,House,1,Democratic,MICHELLE LUJAN GRISHAM,1155
+Torrance,U.S. House,1,Republican,RICHARD GREGORY PRIEM,1169
+Torrance,U.S. House,1,Democratic,MICHELLE LUJAN GRISHAM,1155
 Torrance,President,,Democratic,HILLARY RODHAM CLINTON,651
 Torrance,President,,Republican,TED CRUZ,270
 Torrance,President,,Republican,DONALD J TRUMP,1023
@@ -761,9 +761,9 @@ Torrance,State Senate,39,Republican,(TED) THEODORE BARELA,688
 Torrance,State Senate,39,Democratic,ELIZABETH LIZ STEFANICS,197
 Torrance,State Senate,39,Democratic,AMBROSE M CASTELLANO,206
 Torrance,State Senate,39,Democratic,MIKE DALE ANAYA,232
-Union,House,3,Republican,MICHAEL H ROMERO,214
-Union,House,3,Republican,MICHAEL GLENN LUCERO,150
-Union,House,3,Democratic,BEN R LUJAN,300
+Union,U.S. House,3,Republican,MICHAEL H ROMERO,214
+Union,U.S. House,3,Republican,MICHAEL GLENN LUCERO,150
+Union,U.S. House,3,Democratic,BEN R LUJAN,300
 Union,President,,Democratic,BERNARD SANDERS,190
 Union,President,,Democratic,HILLARY RODHAM CLINTON,154
 Union,President,,Republican,CARLY FIORINA,6
@@ -776,10 +776,10 @@ Union,Secretary Of State,,Republican,NORA ESPINOZA,304
 Union,Secretary Of State,,Democratic,MAGGIE TOULOUSE OLIVER,276
 Union,State House,67,Republican,DENNIS J ROCH,363
 Union,State Senate,7,Republican,JOHN PATRICK WOODS,371
-Valencia,House,1,Republican,RICHARD GREGORY PRIEM,285
-Valencia,House,1,Democratic,MICHELLE LUJAN GRISHAM,482
-Valencia,House,2,Republican,STEVE PEARCE,3117
-Valencia,House,2,Democratic,MERRIE LEE SOULES,4159
+Valencia,U.S. House,1,Republican,RICHARD GREGORY PRIEM,285
+Valencia,U.S. House,1,Democratic,MICHELLE LUJAN GRISHAM,482
+Valencia,U.S. House,2,Republican,STEVE PEARCE,3117
+Valencia,U.S. House,2,Democratic,MERRIE LEE SOULES,4159
 Valencia,President,,Democratic,HILLARY RODHAM CLINTON,3127
 Valencia,President,,Republican,TED CRUZ,591
 Valencia,President,,Republican,DONALD J TRUMP,2618
